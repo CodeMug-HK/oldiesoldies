@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://oldiesoldies.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://oldiesoldies.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://oldiesoldies.com/collections/frontpage.atom"/>
+  <title>oldiesoldies</title>
+  <updated>2022-10-01T14:44:27+08:00</updated>
+  <author>
+    <name>oldiesoldies</name>
+  </author>
+  <entry>
+    <id>https://oldiesoldies.com/products/5248419397787</id>
+    <published>2022-10-01T14:44:27+08:00</published>
+    <updated>2022-10-01T14:44:27+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/puffy-top-linen"/>
+    <title>Puffy Top (Linen)</title>
+    <s:type>top</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/odod0520-27.jpg?v=1590660045"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>top<br>
+        <strong>Price: </strong>
+            540.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Details &amp; Features:</p>
+<p>微透高質量麻布</p>
+<p>布料已先洗水預縮</p>
+<meta charset="utf-8">
+<p>肩上縮皺</p>
+<p>特大泡泡袖</p>
+<p> </p>
+<p>100% Linen fabric from Italy</p>
+<p>Homemade in Hong Kong (home based Sweatshop)</p>
+<p>made to order</p>
+<p> </p>
+<meta charset="utf-8">
+<p>Payment:</p>
+<p>香港本地可銀行入數/轉數快/Payme</p>
+<p>如要以以上方法付款請DM</p>
+<p>謝謝</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5248419397787</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">540.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/5248688947355</id>
+    <published>2022-08-12T22:17:50+08:00</published>
+    <updated>2022-08-12T22:17:50+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/inky-lace-dress"/>
+    <title>Inky Lace Dress</title>
+    <s:type>bottom</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/o-6_68bcb1a2-b1b0-4519-90aa-1874dd35dbe2.jpg?v=1664606737"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>bottom<br>
+        <strong>Price: </strong>
+            480.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Details &amp; Features:</p>
+<p>黑色微透布料</p>
+<p>肩帶可調節長度</p>
+<p>後大蝴蝶結裝飾</p>
+<p> </p>
+<p>Embroidery Fabric from Italy</p>
+<p>Handmade in Hong Kong (home based Sweatshop)</p>
+<p> </p>
+<meta charset="utf-8">
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5248688947355</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">480.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/5883995750555</id>
+    <published>2020-11-22T19:57:25+08:00</published>
+    <updated>2020-11-22T19:57:25+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/antique-hand-crochet-cardigan"/>
+    <title>Antique Hand Crochet Cardigan</title>
+    <s:type></s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/DSC05314.jpg?v=1606046210"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            464.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"><span data-mce-fragment="1">◙ 整件全手工鉤編</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">這件外套最有特色之處是<meta charset="utf-8">立體蕾絲花朵，要完成這種編花，必須使用<meta charset="utf-8">全手工鉤編。但手工鉤編十分耗時，因此在市面上可謂鮮有，而這件鉤編外套的花紋複雜，最快也需用上半天才能完成呢。</span></p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><meta charset="utf-8">◙ 設計參考古董手鉤花紋書</span></p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><meta charset="utf-8">◙ 百搭的<meta charset="utf-8">粉米色</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">選用了帶粉的<meta charset="utf-8">米色，是十分百搭的顏色，怎樣搭配都不會出錯。</span></p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><meta charset="utf-8">◙ 透氣設計三季可穿</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><meta charset="utf-8">大孔花朵透氣設計，配合香港炎熱的天氣，春秋冬三季可穿，寒冷時外在外加大衣，一點也不會臃腫，春秋則可當成外套，增加層次之餘不會悶熱。</span></p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><meta charset="utf-8">◙ 使用100% 全棉線，令衣服更結實耐穿。</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5883995750555</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">464.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/5883897512091</id>
+    <published>2020-11-22T18:17:13+08:00</published>
+    <updated>2020-11-22T18:17:13+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/avocado-hand-crochet-cardigan"/>
+    <title>Avocado Hand Crochet 2-way Cardigan</title>
+    <s:type>top</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/DSC05675.jpg?v=1612280264"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>top<br>
+        <strong>Price: </strong>
+            464.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">◙ 全手工鉤編的蕾絲花朵紋理</span></p>
+<p><span data-mce-fragment="1">為了編織出結實的<meta charset="utf-8">帶孔編花，必須使用<meta charset="utf-8">全手工鉤編，若用一般編織手法而非鉤編，或使用機器編織，根本無法完成這種帶孔的大花朵圖案，但手工鉤編十分耗時，因此在市面上可謂鮮有，而這件鉤編毛衣最快也需用上半天才能完成呢。</span></p>
+<p> </p>
+<p><span data-mce-fragment="1"><meta charset="utf-8">◙ 領邊及手袖也有花邊，細節也不馬虎。</span></p>
+<p> </p>
+<p><span data-mce-fragment="1"><meta charset="utf-8">◙ 特別的<meta charset="utf-8">牛油果綠色</span></p>
+<p><span data-mce-fragment="1">選用了罕見的<meta charset="utf-8">牛油果綠色，穿上十分醒神，令人眼前一亮，但卻不會很難搭配，誰說秋冬一定要穿深色系呢。</span></p>
+<p> </p>
+<p><span data-mce-fragment="1"><meta charset="utf-8">◙ 透氣設計三季可穿</span></p>
+<p><span data-mce-fragment="1"><meta charset="utf-8">大孔花朵透氣設計，配合香港炎熱的天氣，春秋冬三季可穿，寒冷時外在外加大衣，一點也不會臃腫，春秋則可當成外套，增加層次之餘不會悶熱。</span></p>
+<p> </p>
+<p><span data-mce-fragment="1"><meta charset="utf-8">◙ 使用100% 全棉線，令衣服更結實耐穿。</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5883897512091</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">464.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/5669852938395</id>
+    <published>2020-10-01T09:26:53+08:00</published>
+    <updated>2020-10-01T09:26:53+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/dolly-red-2-way-layer-dress"/>
+    <title>Dolly Red 2-way Layer Dress</title>
+    <s:type>one-piece</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/DSC04749copy.jpg?v=1601642736"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>one-piece<br>
+        <strong>Price: </strong>
+            464.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">◙ </span>前後兩穿</p>
+<p> </p>
+<p><meta charset="utf-8"><span data-mce-fragment="1">◙ </span><span>胸前拉皺細節</span></p>
+<p> </p>
+<p><span data-mce-fragment="1">◙ 兩</span>側花邊綁帶及貝殼扣openings，<meta charset="utf-8"><span data-mce-fragment="1">綁帶</span>可用作調節袖孔大小；如欲展露裡面的衣服<meta charset="utf-8">可打開鈕扣。</p>
+<p> </p>
+<p><meta charset="utf-8"><span data-mce-fragment="1">◙ 物料介紹</span></p>
+<p data-mce-fragment="1">布料：100% Cotton</p>
+<p data-mce-fragment="1">鈕扣：貝殼扣</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><meta charset="utf-8"><span data-mce-fragment="1">◙ 洗滌</span>護理</p>
+<p data-mce-fragment="1">可冷水機洗。</p>
+<p data-mce-fragment="1">因紅色布有輕微掉色現象，請勿與淺色衣物一同洗滌。</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5669852938395</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">464.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/5638637944987</id>
+    <published>2020-09-22T23:39:39+08:00</published>
+    <updated>2020-09-22T23:39:39+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/granny-crochet-ribbon-tank-camel-1"/>
+    <title>Granny Crochet Ribbon Tank (CAMEL)</title>
+    <s:type></s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/DSC03694.jpg?v=1600789136"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            304.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>自家設計</p>
+<p>手工鉤織</p>
+<p> </p>
+<p>三色入</p>
+<p>體重40kg至60kg試穿過都合適<br></p>
+<p> </p>
+<p>天氣轉涼</p>
+<p>穿在簡單的衣服外點綴生色不少</p>
+<p><br></p>
+<p>左右兩側都有綁帶</p>
+<p>可打成蝴蝶結或簡單的結</p>
+<p> </p>
+<p>袖口偏低</p>
+<p>裡面穿蝙蝠袖都無問題</p>
+<p> </p>
+<p> </p>
+<p>Modal :165cm 51kg</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5638637944987</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">304.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/5638631391387</id>
+    <published>2020-09-22T23:39:39+08:00</published>
+    <updated>2020-09-22T23:39:39+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/granny-crochet-ribbon-tank-camel"/>
+    <title>Granny Crochet Ribbon Tank (RED)</title>
+    <s:type></s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/DSC05912.jpg?v=1612281049"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            304.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>自家設計</p>
+<p>手工鉤織</p>
+<p> </p>
+<p>三色入</p>
+<p>體重40kg至60kg試穿過都合適<br></p>
+<p> </p>
+<p>天氣轉涼</p>
+<p>穿在簡單的衣服外點綴生色不少</p>
+<p><br></p>
+<p>左右兩側都有綁帶</p>
+<p>可打成蝴蝶結或簡單的結</p>
+<p> </p>
+<p>袖口偏低</p>
+<p>裡面穿蝙蝠袖都無問題</p>
+<p> </p>
+<p> </p>
+<p>Modal :165cm 51kg</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5638631391387</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">304.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/5638629621915</id>
+    <published>2020-09-22T23:35:03+08:00</published>
+    <updated>2020-09-22T23:35:03+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/granny-crochet-ribbon-tank-black"/>
+    <title>Granny Crochet Ribbon Tank (BLACK)</title>
+    <s:type></s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/DSC03598.jpg?v=1600788905"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            304.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>自家設計</p>
+<p>手工鉤織</p>
+<p> </p>
+<p>三色入</p>
+<p>體重40kg至60kg試穿過都合適<br></p>
+<p> </p>
+<p>天氣轉涼</p>
+<p>穿在簡單的衣服外點綴生色不少</p>
+<p><br></p>
+<p>左右兩側都有綁帶</p>
+<p>可打成蝴蝶結或簡單的結</p>
+<p> </p>
+<p>袖口偏低</p>
+<p>裡面穿蝙蝠袖都無問題</p>
+<p> </p>
+<p> </p>
+<p>Modal :165cm 51kg</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5638629621915</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">304.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/5437624385691</id>
+    <published>2020-07-29T16:35:11+08:00</published>
+    <updated>2020-07-29T16:35:11+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/the-emperors-new-clothes"/>
+    <title>The Emperor&apos;s New Clothes</title>
+    <s:type>top</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/at-6.jpg?v=1601643130"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>top<br>
+        <strong>Price: </strong>
+            256.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>國王的新衣</span><br><br><span>不僅看起來透明</span><br><br><span>穿上身也是透明一般完全不會熱</span><br><br><span>適合炎夏做多層次的穿搭</span></p>
+<p><br><br><span>這件物色了很親膚的日本紗料</span><br><br><span>內外搭穿都好看</span><br></p>
+<meta charset="utf-8">
+<p>圖片示範了內<span>搭長、短袖和</span>外搭的穿法供大家參考</p>
+<p> </p>
+<p><span>尺寸方面包容度也很大</span><br><br><span>適合所有身型（我媽也能穿）</span></p>
+<p> </p>
+<p><span>雖然是透明的設計</span></p>
+<p>但還是能修飾手臀</p>
+<p> </p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5437624385691</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">256.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/5399770038427</id>
+    <published>2020-07-20T01:08:42+08:00</published>
+    <updated>2020-07-20T01:08:42+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/antique-skirt"/>
+    <title>Antique Skirt</title>
+    <s:type>bottom</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/at-36.jpg?v=1600789295"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>bottom<br>
+        <strong>Price: </strong>
+            416.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>攝衫也好看的腰頭設計</p>
+<p>腰頭是橡筋裙頭</p>
+<p>側面的帶子是裝飾</p>
+<p>同時可以調節腰圍</p>
+<p> </p>
+<p> </p>
+<p>裙擺的褶子和蕾絲細節很費工夫</p>
+<meta charset="utf-8">
+<p>兩側都有實用夠深的裙袋</p>
+<p> </p>
+<p>布料是100%棉</p>
+<p>刻意選擇厚實一點的棉布</p>
+<p>雖然是白色但不用擔心會透</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5399770038427</id>
+      <title>83cm (±2cm)</title>
+      <s:price currency="HKD">416.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5399770038427</id>
+      <title>90cm (±2cm)</title>
+      <s:price currency="HKD">416.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/5354531061915</id>
+    <published>2020-07-05T18:15:39+08:00</published>
+    <updated>2020-07-05T18:15:39+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/antique-vest"/>
+    <title>Antique Tank Top</title>
+    <s:type>top</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/DSC00581.jpg?v=1600789323"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>top<br>
+        <strong>Price: </strong>
+            340.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>用deadstock vintage tablecloth 改造而成</span><br><span>復古Style</span></p>
+<p><span>穿在tshirt出面mix&amp;match也不錯</span></p>
+<p><br><span>短身設計方便layering</span><br><span>同時可改善比例</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5354531061915</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">340.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/5248902824091</id>
+    <published>2020-05-28T23:50:30+08:00</published>
+    <updated>2020-05-28T23:50:30+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/ruffly-volume-skirt"/>
+    <title>Ruffly Volume Skirt</title>
+    <s:type>bottom</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/o-4_53391989-c879-4100-8050-6b2bd5e4600c.jpg?v=1600789270"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>bottom<br>
+        <strong>Price: </strong>
+            320.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Details &amp; Features:</p>
+<p>5米超大裙擺，超大用布量</p>
+<p>布料有texture很有質感</p>
+<p>選用純綿裡布而非Polyester布料，夏天更通爽</p>
+<p>穿甚麼都能搭配、四季可穿的必備款式！！！</p>
+<p> </p>
+<p>100% Cotton (both shell &amp; lining)</p>
+<p>Handmade in Hong Kong (home based Sweatshop)</p>
+<p>made to order</p>
+<p> </p>
+<meta charset="utf-8">
+<p>Payment:</p>
+<p>香港本地可銀行入數/轉數快/Payme</p>
+<p>如要以以上方法付款請DM</p>
+<p>謝謝</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5248902824091</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">320.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+</feed>

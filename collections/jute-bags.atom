@@ -1,0 +1,1476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://oldiesoldies.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://oldiesoldies.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://oldiesoldies.com/collections/jute-bags.atom"/>
+  <title>oldiesoldies</title>
+  <updated>2021-07-13T00:56:16+08:00</updated>
+  <author>
+    <name>oldiesoldies</name>
+  </author>
+  <entry>
+    <id>https://oldiesoldies.com/products/6907226521755</id>
+    <published>2021-07-13T00:56:16+08:00</published>
+    <updated>2021-07-13T00:56:16+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/super-chic-jute-bag"/>
+    <title>Super Chic Jute Bag</title>
+    <s:type>bag</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/DSC02463.jpg?v=1626108978"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>bag<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">Height: 30cm</p>
+<p data-mce-fragment="1">Width: 40cm</p>
+<p data-mce-fragment="1">Gusset: 8cm</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">來自英國的設計師在孟加拉工作多年，被當地獨特的編織工藝深深吸引，於是決定回國開創一個公平貿易的品牌，並為孟加拉的婦女提供工作機會，給予她們合理的報酬。</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">孟加拉手工編織</span><br data-mce-fragment="1"><span data-mce-fragment="1">全麻質</span><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"> <br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">ethical brand in UK</p>
+<p data-mce-fragment="1">handmade in Bangladesh</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bag</s:tag>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/6907226521755</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/6907219312795</id>
+    <published>2021-07-13T00:46:32+08:00</published>
+    <updated>2021-07-13T00:46:32+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/natural-jute-bag"/>
+    <title>Natural Jute Bag</title>
+    <s:type>bag</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/B.jpg?v=1626108524"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>bag<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1" data-mce-fragment="1">Height: 40cm</p>
+<p class="p1" data-mce-fragment="1">Width: 35cm</p>
+<p class="p1" data-mce-fragment="1">Handle: 45cm</p>
+<p class="p1" data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">來自英國的設計師在孟加拉工作多年，被當地獨特的編織工藝深深吸引，於是決定回國開創一個公平貿易的品牌，並為孟加拉的婦女提供工作機會，給予她們合理的報酬。</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">孟加拉手工編織</span><br data-mce-fragment="1"><span data-mce-fragment="1">全麻質</span><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"> <br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">ethical brand in UK</p>
+<p data-mce-fragment="1">handmade in Bangladesh</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bag</s:tag>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/6907219312795</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/6885663244443</id>
+    <published>2021-07-04T23:05:07+08:00</published>
+    <updated>2021-07-04T23:05:07+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/straped-market-bag-2-colours"/>
+    <title>Striped Market Bag (2 colours)</title>
+    <s:type>bag</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/B8.jpg?v=1625411109"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>bag<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div id="shopify-section-product-template" class="shopify-section" data-mce-fragment="1">
+<div class="product-template__container page-width" id="ProductSection-product-template" data-section-id="product-template" data-section-type="product" data-enable-history-state="true" data-ajax-enabled="true" data-mce-fragment="1">
+<div class="grid product-single product-single--large-media" data-mce-fragment="1">
+<div class="grid__item medium-up--one-third" data-mce-fragment="1">
+<div class="product-single__description rte" data-mce-fragment="1">
+<p data-mce-fragment="1">Height: 40cm</p>
+<p data-mce-fragment="1">Width: 32cm</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">來自英國的設計師在孟加拉工作多年，被當地獨特的編織工藝深深吸引，於是決定回國開創一個公平貿易的品牌，並為孟加拉的婦女提供工作機會，給予她們合理的報酬。</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">孟加拉手工編織</span><br data-mce-fragment="1"><span data-mce-fragment="1">全麻質</span><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"> <br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">ethical brand in UK</p>
+<p data-mce-fragment="1">handmade in Bangladesh<a href="https://www.facebook.com/sharer.php?u=https://oldiesoldies.com/products/jute-market-bag-in-mixed-colours-7-colours" class="btn btn--small btn--share share-facebook" aria-describedby="a11y-new-window-external-message" style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 1.4em;" data-mce-fragment="1" data-mce-href="https://www.facebook.com/sharer.php?u=https://oldiesoldies.com/products/jute-market-bag-in-mixed-colours-7-colours" target="_blank"><span data-mce-fragment="1"></span></a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="shopify-section-product-recommendations" class="shopify-section" data-mce-fragment="1">
+<div class="page-width" data-base-url="/recommendations/products" data-product-id="6752429670555" data-section-id="product-recommendations" data-section-type="product-recommendations" data-mce-fragment="1">
+<div class="product-recommendations__inner" data-mce-fragment="1"></div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bag</s:tag>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/6885663244443</id>
+      <title>BLUE</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/6885663244443</id>
+      <title>YELLOW</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/6805564358811</id>
+    <published>2021-06-02T23:32:10+08:00</published>
+    <updated>2021-06-02T23:32:10+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/round-base-bucket-bag"/>
+    <title>Round Base Bucket Bag</title>
+    <s:type>bag</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/bag.5.jpg?v=1622648374"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>bag<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8">Height: 22cm</p>
+<p>Width: 33cm</p>
+<p> </p>
+<p> <br></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">來自英國的設計師在孟加拉工作多年，被當地獨特的編織工藝深深吸引，於是決定回國開創一個公平貿易的品牌，並為孟加拉的婦女提供工作機會，給予她們合理的報酬。</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">孟加拉手工編織</span><br data-mce-fragment="1"><span data-mce-fragment="1">全麻質</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/6805564358811</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/6753032405147</id>
+    <published>2021-06-02T23:09:41+08:00</published>
+    <updated>2021-06-02T23:09:41+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/round-handle-bag"/>
+    <title>Round Handle Bag</title>
+    <s:type>bag</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/B1494-GreyBlue.jpg?v=1626070699"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>bag<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p class="p1">Total Height: 56cm</p>
+<p class="p1">Bottom Width: 40cm</p>
+<p class="p1"> </p>
+<p class="p1"> </p>
+<p><meta charset="utf-8"><span data-mce-fragment="1"></span><span data-mce-fragment="1">來自英國的設計師在孟加拉工作多年，被當地獨特的編織工藝深深吸引，於是決定回國開創一個公平貿易的品牌，並為孟加拉的婦女提供工作機會，給予她們合理的報酬。</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">孟加拉手工編織</span><br data-mce-fragment="1"><span data-mce-fragment="1">全麻質</span><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"> <br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">ethical brand in UK</p>
+<p data-mce-fragment="1">handmade in Bangladesh</p>
+<p><span data-mce-fragment="1"></span><br data-mce-fragment="1"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bag</s:tag>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/6753032405147</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/6755372630171</id>
+    <published>2021-05-07T00:34:55+08:00</published>
+    <updated>2021-05-07T00:34:55+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/border-bag-olive-grey"/>
+    <title>Border Bag (Olive &amp; Grey)</title>
+    <s:type>bag</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/8_faf63881-214f-4ac0-a2a1-17d53a9e266f.jpg?v=1620319000"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>bag<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p class="p1" data-mce-fragment="1">Height: 40cm</p>
+<p class="p1" data-mce-fragment="1">Width: 40cm</p>
+<p class="p1" data-mce-fragment="1">Gusset: 15cm</p>
+<p class="p1" data-mce-fragment="1">Handles: 46cm</p>
+<p class="p1" data-mce-fragment="1"> </p>
+<p><span data-mce-fragment="1">來自英國的設計師在孟加拉工作多年，被當地獨特的編織工藝深深吸引，於是決定回國開創一個公平貿易的品牌，並為孟加拉的婦女提供工作機會，給予她們合理的報酬。</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">孟加拉手工編織</span><br data-mce-fragment="1"><span data-mce-fragment="1">全麻質</span><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"> <br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">ethical brand in UK</p>
+<p data-mce-fragment="1">handmade in Bangladesh</p>
+<p class="p1" data-mce-fragment="1"> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bag</s:tag>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/6755372630171</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/6755371057307</id>
+    <published>2021-05-07T00:34:27+08:00</published>
+    <updated>2021-05-07T00:34:27+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/border-bag-black-natural"/>
+    <title>Border Bag (Black &amp; Natural)</title>
+    <s:type>bag</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/7_14c0152e-cf5d-4fd7-b74d-ee2a6113ec7f.jpg?v=1620318868"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>bag<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p class="p1" data-mce-fragment="1">Height: 40cm</p>
+<p class="p1" data-mce-fragment="1">Width: 40cm</p>
+<p class="p1" data-mce-fragment="1">Gusset: 15cm</p>
+<p class="p1" data-mce-fragment="1">Handles: 46cm</p>
+<p class="p1" data-mce-fragment="1"> </p>
+<p><span data-mce-fragment="1">來自英國的設計師在孟加拉工作多年，被當地獨特的編織工藝深深吸引，於是決定回國開創一個公平貿易的品牌，並為孟加拉的婦女提供工作機會，給予她們合理的報酬。</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">孟加拉手工編織</span><br data-mce-fragment="1"><span data-mce-fragment="1">全麻質</span><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"> <br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">ethical brand in UK</p>
+<p data-mce-fragment="1">handmade in Bangladesh</p>
+<p class="p1" data-mce-fragment="1"> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bag</s:tag>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/6755371057307</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/6755359096987</id>
+    <published>2021-05-07T00:30:06+08:00</published>
+    <updated>2021-05-07T00:30:06+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/fringe-bag"/>
+    <title>Fringe Bag</title>
+    <s:type>bag</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/DSC02503.jpg?v=1620318607"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>bag<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1" data-mce-fragment="1">Height: 26cm</p>
+<p class="p1" data-mce-fragment="1">Top width: 22cm</p>
+<p class="p1" data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">來自英國的設計師在孟加拉工作多年，被當地獨特的編織工藝深深吸引，於是決定回國開創一個公平貿易的品牌，並為孟加拉的婦女提供工作機會，給予她們合理的報酬。</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">孟加拉手工編織</span><br data-mce-fragment="1"><span data-mce-fragment="1">全麻質</span><br data-mce-fragment="1"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bag</s:tag>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/6755359096987</id>
+      <title>Natural</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/6755359096987</id>
+      <title>Black</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/6753029259419</id>
+    <published>2021-05-05T23:44:40+08:00</published>
+    <updated>2021-05-05T23:44:40+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/poppies-bag-l-size"/>
+    <title>Poppies Bag (L size)</title>
+    <s:type>bag</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/Chelsea-Poppies-LG.jpg?v=1620229519"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>bag<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">Height: 45cm</p>
+<p data-mce-fragment="1">Width: 60cm</p>
+<p data-mce-fragment="1">Gusset: 15cm</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">來自英國的設計師在孟加拉工作多年，被當地獨特的編織工藝深深吸引，於是決定回國開創一個公平貿易的品牌，並為孟加拉的婦女提供工作機會，給予她們合理的報酬。</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">孟加拉手工編織</span><br data-mce-fragment="1"><span data-mce-fragment="1">全麻質</span><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"> <br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">ethical brand in UK</p>
+<p data-mce-fragment="1">handmade in Bangladesh</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bag</s:tag>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/6753029259419</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/6753026211995</id>
+    <published>2021-05-05T23:42:51+08:00</published>
+    <updated>2021-05-05T23:42:51+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/poppies-bag"/>
+    <title>Poppies Bag (M size)</title>
+    <s:type>bag</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/Chelsea-Poppies.jpg?v=1620229400"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>bag<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">Height: 30cm</p>
+<p data-mce-fragment="1">Width: 40cm</p>
+<p data-mce-fragment="1">Gusset: 8cm</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">來自英國的設計師在孟加拉工作多年，被當地獨特的編織工藝深深吸引，於是決定回國開創一個公平貿易的品牌，並為孟加拉的婦女提供工作機會，給予她們合理的報酬。</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">孟加拉手工編織</span><br data-mce-fragment="1"><span data-mce-fragment="1">全麻質</span><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"> <br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">ethical brand in UK</p>
+<p data-mce-fragment="1">handmade in Bangladesh</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bag</s:tag>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/6753026211995</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/6752429670555</id>
+    <published>2021-05-05T22:12:52+08:00</published>
+    <updated>2021-05-05T22:12:52+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/jute-market-bag-in-mixed-colours-7-colours"/>
+    <title>Jute Market Bag in Mixed Colours (7 colours)</title>
+    <s:type></s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/cover_de00c417-2c4b-432e-b18c-a01dbaca1bc3.jpg?v=1622647604"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8">Height: 40cm</p>
+<p>Width: 32cm</p>
+<p> </p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">來自英國的設計師在孟加拉工作多年，被當地獨特的編織工藝深深吸引，於是決定回國開創一個公平貿易的品牌，並為孟加拉的婦女提供工作機會，給予她們合理的報酬。</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">孟加拉手工編織</span><br data-mce-fragment="1"><span data-mce-fragment="1">全麻質</span><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"> <br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">ethical brand in UK</p>
+<p data-mce-fragment="1">handmade in Bangladesh</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/6752429670555</id>
+      <title>1</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku>1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/6752429670555</id>
+      <title>2</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku>1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/6752429670555</id>
+      <title>3</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku>1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/6752429670555</id>
+      <title>4</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku>1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/6752429670555</id>
+      <title>5</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku>1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/6752429670555</id>
+      <title>6</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku>1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/6752429670555</id>
+      <title>7</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku>1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/5952309723291</id>
+    <published>2020-12-05T18:32:20+08:00</published>
+    <updated>2020-12-05T18:32:20+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/jute-bag-in-natural-colour-medium-size"/>
+    <title>Jute Bag (in Natural/ Black color)</title>
+    <s:type>bag</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/DSC02591.jpg?v=1607164266"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>bag<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">Height: 30cm</p>
+<p data-mce-fragment="1">Width: 40cm</p>
+<p data-mce-fragment="1">Gusset: 8cm</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"> <span data-mce-fragment="1">來自英國的設計師在孟加拉工作多年，被當地獨特的編織工藝深深吸引，於是決定回國開創一個公平貿易的品牌，並為孟加拉的婦女提供工作機會，給予她們合理的報酬。</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">孟加拉手工編織</span><br data-mce-fragment="1"><span data-mce-fragment="1">全麻質</span><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"> <br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">ethical brand in UK</p>
+<p data-mce-fragment="1">handmade in Bangladesh</p>
+<p data-mce-fragment="1"> <br data-mce-fragment="1"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5952309723291</id>
+      <title>Natural</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5952309723291</id>
+      <title>Black</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/5952270991515</id>
+    <published>2020-12-05T18:32:20+08:00</published>
+    <updated>2020-12-05T18:32:20+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/jute-bag-in-natural-colour"/>
+    <title>Jute Bag in Natural Colour</title>
+    <s:type>bag</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/DSC02534.jpg?v=1607163740"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>bag<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1">Height: 40cm</p>
+<p class="p1">Width: 40cm</p>
+<p class="p1">Gusset: 15cm</p>
+<p class="p1">Handles: 46cm</p>
+<p data-mce-fragment="1"> <br data-mce-fragment="1"></p>
+<p><span data-mce-fragment="1">來自英國的設計師在孟加拉工作多年，被當地獨特的編織工藝深深吸引，於是決定回國開創一個公平貿易的品牌，並為孟加拉的婦女提供工作機會，給予她們合理的報酬。</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">孟加拉手工編織</span><br data-mce-fragment="1"><span data-mce-fragment="1">全麻質</span><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"> <br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">ethical brand in UK</p>
+<p data-mce-fragment="1">handmade in Bangladesh</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5952270991515</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/5730298560667</id>
+    <published>2020-10-22T23:11:38+08:00</published>
+    <updated>2020-10-22T23:11:38+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/handwoven-drawstring-mini-bucket-bag-brown"/>
+    <title>Handwoven Drawstring Mini Bucket Bag (Brown)</title>
+    <s:type></s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/DSC05576.jpg?v=1603379587"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            119.00 - 139.00
+            <a href="https://oldiesoldies.com/products/handwoven-drawstring-mini-bucket-bag-brown">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"><span class="" title="已編輯">Small: W12.5*L6*H14cm<br data-mce-fragment="1"><br data-mce-fragment="1">Large: W13.5*L7.5*H18cm<br></span></p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1">Handmade in Nepal</p>
+<p data-mce-fragment="1">尼泊爾手工製造</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><meta charset="utf-8"><span data-mce-fragment="1">尼泊爾非牟利</span>公平貿易機構，成立於1975年，致力為農村婦女提供工作機會，以改善落後地區的貧窮問題，現有600名工匠，全部皆為婦女。品牌主打色彩繽紛的手織布料，至今仍沿用傳統的手工織布機。作品由紗線染色、布料織造、裁剪及裁製皆由婦女<meta charset="utf-8"><span data-mce-fragment="1">工匠們合作完成，每一件作品是她們的心血。</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><img alt="" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/files/31945286_2058215397752727_3907927593726246912_o_480x480.jpg?v=1603292138" width="306" height="204" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0398/9127/1835/files/31945286_2058215397752727_3907927593726246912_o_480x480.jpg?v=1603292138"></span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><img alt="" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/files/Screenshot_2020-10-21_at_10.48.05_PM_480x480.png?v=1603291878" width="305" height="236" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0398/9127/1835/files/Screenshot_2020-10-21_at_10.48.05_PM_480x480.png?v=1603291878"></span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><img alt="" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/files/weaving-in-nepal-e1571557696885_480x480.jpg?v=1603292152" width="306" height="113" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0398/9127/1835/files/weaving-in-nepal-e1571557696885_480x480.jpg?v=1603292152"></span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><img alt="" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/files/17917133_1866206883620247_7371675255029909014_o_480x480.jpg?v=1603292120" width="305" height="203" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0398/9127/1835/files/17917133_1866206883620247_7371675255029909014_o_480x480.jpg?v=1603292120"></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5730298560667</id>
+      <title>Small</title>
+      <s:price currency="HKD">119.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5730298560667</id>
+      <title>Large</title>
+      <s:price currency="HKD">139.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/5730291941531</id>
+    <published>2020-10-22T23:08:56+08:00</published>
+    <updated>2020-10-22T23:08:56+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/handwoven-drawstring-mini-bucket-bag-beige"/>
+    <title>Handwoven Drawstring Mini Bucket Bag (Beige)</title>
+    <s:type></s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/DSC05566.jpg?v=1603379456"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            119.00 - 139.00
+            <a href="https://oldiesoldies.com/products/handwoven-drawstring-mini-bucket-bag-beige">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"><meta charset="utf-8"><span title="已編輯" class="">Small: W12.5*L6*H14cm<br data-mce-fragment="1"><br data-mce-fragment="1">Large: W13.5*L7.5*H18cm<br></span></p>
+<p data-mce-fragment="1"><br><meta charset="utf-8"></p>
+<p data-mce-fragment="1">Handmade in Nepal</p>
+<p data-mce-fragment="1">尼泊爾手工製造</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><meta charset="utf-8"><span data-mce-fragment="1">尼泊爾非牟利</span>公平貿易機構，成立於1975年，致力為農村婦女提供工作機會，以改善落後地區的貧窮問題，現有600名工匠，全部皆為婦女。品牌主打色彩繽紛的手織布料，至今仍沿用傳統的手工織布機。作品由紗線染色、布料織造、裁剪及裁製皆由婦女<meta charset="utf-8"><span data-mce-fragment="1">工匠們合作完成，每一件作品是她們的心血。</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><img alt="" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/files/31945286_2058215397752727_3907927593726246912_o_480x480.jpg?v=1603292138" width="306" height="204" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0398/9127/1835/files/31945286_2058215397752727_3907927593726246912_o_480x480.jpg?v=1603292138"></span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><img alt="" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/files/Screenshot_2020-10-21_at_10.48.05_PM_480x480.png?v=1603291878" width="305" height="236" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0398/9127/1835/files/Screenshot_2020-10-21_at_10.48.05_PM_480x480.png?v=1603291878"></span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><img alt="" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/files/weaving-in-nepal-e1571557696885_480x480.jpg?v=1603292152" width="306" height="113" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0398/9127/1835/files/weaving-in-nepal-e1571557696885_480x480.jpg?v=1603292152"></span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><img alt="" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/files/17917133_1866206883620247_7371675255029909014_o_480x480.jpg?v=1603292120" width="305" height="203" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0398/9127/1835/files/17917133_1866206883620247_7371675255029909014_o_480x480.jpg?v=1603292120"></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5730291941531</id>
+      <title>Small</title>
+      <s:price currency="HKD">119.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5730291941531</id>
+      <title>Large</title>
+      <s:price currency="HKD">139.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/5730289156251</id>
+    <published>2020-10-22T23:07:49+08:00</published>
+    <updated>2020-10-22T23:07:49+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/handwoven-drawstring-mini-bucket-bag"/>
+    <title>Handwoven Drawstring Mini Bucket Bag (Blue)</title>
+    <s:type></s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/DSC05579.jpg?v=1603379270"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            119.00 - 139.00
+            <a href="https://oldiesoldies.com/products/handwoven-drawstring-mini-bucket-bag">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"><span class="" title="已編輯">Small: W12.5*L6*H14cm<br data-mce-fragment="1"><br data-mce-fragment="1">Large: W13.5*L7.5*H18cm<br></span></p>
+<p data-mce-fragment="1"><span class="" title="已編輯"><br></span></p>
+<p data-mce-fragment="1">Handmade in Nepal</p>
+<p data-mce-fragment="1">尼泊爾手工製造</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><meta charset="utf-8"><span data-mce-fragment="1">尼泊爾非牟利</span>公平貿易機構，成立於1975年，致力為農村婦女提供工作機會，以改善落後地區的貧窮問題，現有600名工匠，全部皆為婦女。品牌主打色彩繽紛的手織布料，至今仍沿用傳統的手工織布機。作品由紗線染色、布料織造、裁剪及裁製皆由婦女<meta charset="utf-8"><span data-mce-fragment="1">工匠們合作完成，每一件作品是她們的心血。</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><img alt="" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/files/31945286_2058215397752727_3907927593726246912_o_480x480.jpg?v=1603292138" width="306" height="204" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0398/9127/1835/files/31945286_2058215397752727_3907927593726246912_o_480x480.jpg?v=1603292138"></span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><img alt="" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/files/Screenshot_2020-10-21_at_10.48.05_PM_480x480.png?v=1603291878" width="305" height="236" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0398/9127/1835/files/Screenshot_2020-10-21_at_10.48.05_PM_480x480.png?v=1603291878"></span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><img alt="" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/files/weaving-in-nepal-e1571557696885_480x480.jpg?v=1603292152" width="306" height="113" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0398/9127/1835/files/weaving-in-nepal-e1571557696885_480x480.jpg?v=1603292152"></span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><img alt="" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/files/17917133_1866206883620247_7371675255029909014_o_480x480.jpg?v=1603292120" width="305" height="203" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0398/9127/1835/files/17917133_1866206883620247_7371675255029909014_o_480x480.jpg?v=1603292120"></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5730289156251</id>
+      <title>Small</title>
+      <s:price currency="HKD">119.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5730289156251</id>
+      <title>Large</title>
+      <s:price currency="HKD">139.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/5727151947931</id>
+    <published>2020-10-21T23:09:44+08:00</published>
+    <updated>2020-10-21T23:09:44+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/flower-coin-case"/>
+    <title>Flower Coin Case</title>
+    <s:type></s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/DSC05540.jpg?v=1603292978"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            89.00 - 169.00
+            <a href="https://oldiesoldies.com/products/flower-coin-case">(19 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Handmade in Nepal</p>
+<p>尼泊爾手工製造</p>
+<p> </p>
+<p><meta charset="utf-8"><span data-mce-fragment="1">尼泊爾非牟利</span>公平貿易機構，成立於1975年，致力為農村婦女提供工作機會，以改善落後地區的貧窮問題，現有600名工匠，全部皆為婦女。品牌主打色彩繽紛的手織布料，至今仍沿用傳統的手工織布機。作品由紗線染色、布料織造、裁剪及裁製皆由婦女<meta charset="utf-8"><span data-mce-fragment="1">工匠們合作完成，每一件作品是她們的心血。</span></p>
+<p><span data-mce-fragment="1"><img alt="" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/files/31945286_2058215397752727_3907927593726246912_o_480x480.jpg?v=1603292138" width="306" height="204"></span></p>
+<p><span data-mce-fragment="1"><img alt="" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/files/Screenshot_2020-10-21_at_10.48.05_PM_480x480.png?v=1603291878" width="305" height="236"></span></p>
+<p><span data-mce-fragment="1"><img alt="" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/files/weaving-in-nepal-e1571557696885_480x480.jpg?v=1603292152" width="306" height="113"></span></p>
+<p><span data-mce-fragment="1"><img alt="" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/files/17917133_1866206883620247_7371675255029909014_o_480x480.jpg?v=1603292120" width="305" height="203"></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5727151947931</id>
+      <title>Choco/Brown / Set (with brass safety pin)</title>
+      <s:price currency="HKD">169.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5727151947931</id>
+      <title>Choco/Brown / Only coin case</title>
+      <s:price currency="HKD">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5727151947931</id>
+      <title>Choco/Navy / Set (with brass safety pin)</title>
+      <s:price currency="HKD">169.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5727151947931</id>
+      <title>Choco/Navy / Only coin case</title>
+      <s:price currency="HKD">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5727151947931</id>
+      <title>Pear/Black / Set (with brass safety pin)</title>
+      <s:price currency="HKD">169.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5727151947931</id>
+      <title>Pear/Black / Only coin case</title>
+      <s:price currency="HKD">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5727151947931</id>
+      <title>Grey/Coral / Set (with brass safety pin)</title>
+      <s:price currency="HKD">169.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5727151947931</id>
+      <title>Grey/Coral / Only coin case</title>
+      <s:price currency="HKD">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5727151947931</id>
+      <title>Choco/Pink / Set (with brass safety pin)</title>
+      <s:price currency="HKD">169.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5727151947931</id>
+      <title>Choco/Pink / Only coin case</title>
+      <s:price currency="HKD">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5727151947931</id>
+      <title>Choco/Coral / Set (with brass safety pin)</title>
+      <s:price currency="HKD">169.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5727151947931</id>
+      <title>Choco/Coral / Only coin case</title>
+      <s:price currency="HKD">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5727151947931</id>
+      <title>Choco/Green / Set (with brass safety pin)</title>
+      <s:price currency="HKD">169.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5727151947931</id>
+      <title>Choco/Green / Only coin case</title>
+      <s:price currency="HKD">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5727151947931</id>
+      <title>Grey/Pear / Set (with brass safety pin)</title>
+      <s:price currency="HKD">169.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5727151947931</id>
+      <title>Grey/Pear / Only coin case</title>
+      <s:price currency="HKD">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5727151947931</id>
+      <title>Pear/Coral / Set (with brass safety pin)</title>
+      <s:price currency="HKD">169.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5727151947931</id>
+      <title>Pear/Coral / Only coin case</title>
+      <s:price currency="HKD">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5727151947931</id>
+      <title>Only brass safety pin / /</title>
+      <s:price currency="HKD">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/5707870699675</id>
+    <published>2020-10-13T15:47:01+08:00</published>
+    <updated>2020-10-13T15:47:01+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/jute-striped-string-bag-large"/>
+    <title>Jute Striped String Bag - Large</title>
+    <s:type></s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/DSC04360copy.jpg?v=1602575222"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<p class="p1"> </p>
+<meta charset="utf-8">
+<p class="p1">Height: 40cm</p>
+<p class="p1">Handles: 30cm</p>
+<p class="p1"> </p>
+<p class="p1"> </p>
+<span data-mce-fragment="1">來自英國的設計師在孟加拉工作多年，被當地獨特的編織工藝深深吸引，於是決定回國開創一個公平貿易的品牌，並為孟加拉的婦女提供工作機會，給予她們合理的報酬。</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">孟加拉手工編織</span><br data-mce-fragment="1"><span data-mce-fragment="1">全麻質</span><br data-mce-fragment="1">
+<p> </p>
+<p>ethical brand in UK</p>
+<p>handmade in Bangladesh</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5707870699675</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/5641821356187</id>
+    <published>2020-09-23T13:25:23+08:00</published>
+    <updated>2020-09-23T13:25:23+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/stripped-pattern-jute-bag"/>
+    <title>Stripped Pattern Jute Bag</title>
+    <s:type></s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/2_9b6d82e9-ea80-4476-bcff-807980c75244.jpg?v=1600838724"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p data-mce-fragment="1">Height: 30cm</p>
+<p data-mce-fragment="1">Width: 40cm</p>
+<p data-mce-fragment="1">Gusset: 8cm</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">來自英國的設計師在孟加拉工作多年，被當地獨特的編織工藝深深吸引，於是決定回國開創一個公平貿易的品牌，並為孟加拉的婦女提供工作機會，給予她們合理的報酬。</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">孟加拉手工編織</span><br data-mce-fragment="1"><span data-mce-fragment="1">全麻質</span><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"> <br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">ethical brand in UK</p>
+<p data-mce-fragment="1">handmade in Bangladesh</p>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bag</s:tag>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5641821356187</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/5641795895451</id>
+    <published>2020-09-23T13:16:59+08:00</published>
+    <updated>2020-09-23T13:16:59+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/striped-jute-market-bag"/>
+    <title>Striped Jute Market Bag</title>
+    <s:type>bag</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/DSC02566.jpg?v=1600838221"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>bag<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p data-mce-fragment="1"> </p>
+<p class="p1" data-mce-fragment="1"> </p>
+<p class="p1" data-mce-fragment="1"> </p>
+<p class="p1" data-mce-fragment="1"> </p>
+<p data-mce-fragment="1">Height: 30cm</p>
+<p data-mce-fragment="1">Width: 40cm</p>
+<p data-mce-fragment="1">Gusset: 8cm</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"> <br data-mce-fragment="1"></p>
+<span data-mce-fragment="1">來自英國的設計師在孟加拉工作多年，被當地獨特的編織工藝深深吸引，於是決定回國開創一個公平貿易的品牌，並為孟加拉的婦女提供工作機會，給予她們合理的報酬。</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">孟加拉手工編織</span><br data-mce-fragment="1"><span data-mce-fragment="1">全麻質</span><br data-mce-fragment="1">
+<p data-mce-fragment="1"> <br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">ethical brand in UK</p>
+<p data-mce-fragment="1">handmade in Bangladesh</p>
+<br data-mce-fragment="1"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bag</s:tag>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5641795895451</id>
+      <title>Natural</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5641795895451</id>
+      <title>Blue</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/5638865453211</id>
+    <published>2020-09-23T00:42:06+08:00</published>
+    <updated>2020-09-23T00:42:06+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/strapped-jute-bag"/>
+    <title>Jute Fringe Bag</title>
+    <s:type>bag</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/DSC03596.jpg?v=1600792927"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>bag<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1" data-mce-fragment="1">Height: 26cm</p>
+<p class="p1" data-mce-fragment="1">Width: 22cm</p>
+<p class="p1" data-mce-fragment="1">Handle: 116cm</p>
+<p class="p1" data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">來自英國的設計師在孟加拉工作多年，被當地獨特的編織工藝深深吸引，於是決定回國開創一個公平貿易的品牌，並為孟加拉的婦女提供工作機會，給予她們合理的報酬。</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">孟加拉手工編織</span><br data-mce-fragment="1"><span data-mce-fragment="1">全麻質</span><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"> <br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">ethical brand in UK</p>
+<p data-mce-fragment="1">handmade in Bangladesh</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bag</s:tag>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5638865453211</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/5638744932507</id>
+    <published>2020-09-23T00:06:22+08:00</published>
+    <updated>2020-09-23T00:06:22+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/round-jute-bag"/>
+    <title>Round Jute Bag</title>
+    <s:type>bag</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/1_28c0c2f9-ec86-422b-8b03-46bb21593f70.jpg?v=1600790783"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>bag<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1" data-mce-fragment="1">Diameter: 30cm</p>
+<p class="p1" data-mce-fragment="1">Handle: 60cm</p>
+<p class="p1" data-mce-fragment="1">Gusset: 8cm</p>
+<p class="p1" data-mce-fragment="1"> </p>
+<p class="p1" data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">來自英國的設計師在孟加拉工作多年，被當地獨特的編織工藝深深吸引，於是決定回國開創一個公平貿易的品牌，並為孟加拉的婦女提供工作機會，給予她們合理的報酬。</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">孟加拉手工編織</span><br data-mce-fragment="1"><span data-mce-fragment="1">全麻質</span><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"> <br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">ethical brand in UK</p>
+<p data-mce-fragment="1">handmade in Bangladesh</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5638744932507</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/5510012633243</id>
+    <published>2020-08-17T23:46:53+08:00</published>
+    <updated>2020-08-17T23:46:53+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/tero-bag"/>
+    <title>Tero Jute Bag</title>
+    <s:type></s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/DSC02494_69787980-4780-47c7-a48e-c12e761a12d5.jpg?v=1598628701"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p class="p1">Height: 50cm</p>
+<p class="p1">Bottom (diameter): 30cm</p>
+<p class="p1">Handles: 30cm</p>
+<p class="p1"> </p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">來自英國的設計師在孟加拉工作多年，被當地獨特的編織工藝深深吸引，於是決定回國開創一個公平貿易的品牌，並為孟加拉的婦女提供工作機會，給予她們合理的報酬。</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">孟加拉手工編織</span><br data-mce-fragment="1"><span data-mce-fragment="1">全麻質</span><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"> <br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">ethical brand in UK</p>
+<p data-mce-fragment="1">handmade in Bangladesh</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5510012633243</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/5509987795099</id>
+    <published>2020-08-17T23:39:38+08:00</published>
+    <updated>2020-08-17T23:39:38+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/jute-market-bag-10-colours"/>
+    <title>Jute Market Bag in Soild Colours (11 colours)</title>
+    <s:type></s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/DSC02517.jpg?v=1620223539"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8">Height: 40cm</p>
+<p>Width: 32cm</p>
+<p>顏色選項按圖片次序排列</p>
+<p> </p>
+<p> </p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">來自英國的設計師在孟加拉工作多年，被當地獨特的編織工藝深深吸引，於是決定回國開創一個公平貿易的品牌，並為孟加拉的婦女提供工作機會，給予她們合理的報酬。</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">孟加拉手工編織</span><br data-mce-fragment="1"><span data-mce-fragment="1">全麻質</span><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"> <br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">ethical brand in UK</p>
+<p data-mce-fragment="1">handmade in Bangladesh</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5509987795099</id>
+      <title>橄欖 Olive</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5509987795099</id>
+      <title>芥末 Mustard</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5509987795099</id>
+      <title>灰綠 Grey</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5509987795099</id>
+      <title>麻米 Natural</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5509987795099</id>
+      <title>櫻桃 Red</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5509987795099</id>
+      <title>墨黑 Black</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5509987795099</id>
+      <title>鮮橙 Orange</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5509987795099</id>
+      <title>樹綠 Green</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5509987795099</id>
+      <title>天藍 Turquoise</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5509987795099</id>
+      <title>牛仔 Indigo</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5509987795099</id>
+      <title>桃紅 Fushia</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/5509949063323</id>
+    <published>2020-08-17T23:29:49+08:00</published>
+    <updated>2020-08-17T23:29:49+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/boxy-woven-jute-bag-with-lining"/>
+    <title>Boxy Woven Jute Bag with Lining</title>
+    <s:type>bag</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/DSC02655.jpg?v=1597678191"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>bag<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Height: 40cm</p>
+<p>Width: 35cm</p>
+<p>Gusset: 10cm</p>
+<p> </p>
+<p> </p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">來自英國的設計師在孟加拉工作多年，被當地獨特的編織工藝深深吸引，於是決定回國開創一個公平貿易的品牌，並為孟加拉的婦女提供工作機會，給予她們合理的報酬。</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">孟加拉手工編織</span><br data-mce-fragment="1"><span data-mce-fragment="1">全麻質</span><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"> <br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">ethical brand in UK</p>
+<p data-mce-fragment="1">handmade in Bangladesh</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bag</s:tag>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5509949063323</id>
+      <title>1</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5509949063323</id>
+      <title>2</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5509949063323</id>
+      <title>3</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5509949063323</id>
+      <title>4</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5509949063323</id>
+      <title>5</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5509949063323</id>
+      <title>6</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

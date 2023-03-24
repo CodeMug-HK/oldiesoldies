@@ -1,0 +1,1192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://oldiesoldies.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://oldiesoldies.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://oldiesoldies.com/collections/select.atom"/>
+  <title>oldiesoldies</title>
+  <updated>2021-07-14T00:13:51+08:00</updated>
+  <author>
+    <name>oldiesoldies</name>
+  </author>
+  <entry>
+    <id>https://oldiesoldies.com/products/6909662232731</id>
+    <published>2021-07-14T00:13:51+08:00</published>
+    <updated>2021-07-14T00:13:51+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/amethyst-square-stone-925-silver-ring"/>
+    <title>Amethyst Square Stone 925 Silver Ring</title>
+    <s:type>accessories</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/10.1.jpg?v=1626192874"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>accessories<br>
+        <strong>Price: </strong>
+            450.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>stone: Amethyst </p>
+<p>size:<span data-mce-fragment="1"> US 9</span></p>
+<p> </p>
+<p><span data-mce-fragment="1" mce-data-marked="1">ONLY ONE</span></p>
+<p>made in India</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/6909662232731</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">450.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/6909655941275</id>
+    <published>2021-07-14T00:10:56+08:00</published>
+    <updated>2021-07-14T00:10:56+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/amethyst-raw-finish-925-silver-irregular-ring"/>
+    <title>Amethyst Raw Finish 925 Silver Irregular Ring</title>
+    <s:type>accessories</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/51.3.jpg?v=1626192703"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>accessories<br>
+        <strong>Price: </strong>
+            320.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>stone: Amethyst </p>
+<p>size:<span data-mce-fragment="1"> US 7</span></p>
+<p> </p>
+<p><span mce-data-marked="1" data-mce-fragment="1">ONLY ONE</span></p>
+<p>made in India</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/6909655941275</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">320.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/6909652664475</id>
+    <published>2021-07-14T00:10:20+08:00</published>
+    <updated>2021-07-14T00:10:20+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/peridot-raw-finish-925-silver-irregular-ring"/>
+    <title>Peridot Raw Finish 925 Silver Irregular Ring</title>
+    <s:type>accessories</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/50.2.jpg?v=1626192615"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>accessories<br>
+        <strong>Price: </strong>
+            320.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>stone: Peridot</p>
+<p>size:<span data-mce-fragment="1"> US 7</span></p>
+<p> </p>
+<p><span mce-data-marked="1" data-mce-fragment="1">ONLY ONE</span></p>
+<p>made in India</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/6909652664475</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">320.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/6909649453211</id>
+    <published>2021-07-14T00:07:58+08:00</published>
+    <updated>2021-07-14T00:07:58+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/blue-topaz-raw-finish-925-silver-irregular-ring"/>
+    <title>Blue Topaz Raw Finish 925 Silver Irregular Ring</title>
+    <s:type>accessories</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/49.2.jpg?v=1626192530"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>accessories<br>
+        <strong>Price: </strong>
+            320.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>stone: Blue Topaz</p>
+<p>size:<span data-mce-fragment="1"> US 8</span></p>
+<p> </p>
+<p><span mce-data-marked="1" data-mce-fragment="1">ONLY ONE</span></p>
+<p>made in India</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/6909649453211</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">320.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/6909640999067</id>
+    <published>2021-07-14T00:05:19+08:00</published>
+    <updated>2021-07-14T00:05:19+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/oval-crystal-925-silver-ring"/>
+    <title>Oval Crystal 925 Silver Ring</title>
+    <s:type>accessories</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/35-36.3.jpg?v=1626192411"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>accessories<br>
+        <strong>Price: </strong>
+            280.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>stone: Crystal</p>
+<p>weight of silver: 3.4<span data-mce-fragment="1"> gram/ 3.6 gram</span></p>
+<p>size:<span data-mce-fragment="1"> US 7</span></p>
+<p> </p>
+<p><span data-mce-fragment="1">1 in stock</span></p>
+<p>made in India</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/6909640999067</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">280.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/6909637951643</id>
+    <published>2021-07-14T00:04:03+08:00</published>
+    <updated>2021-07-14T00:04:03+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/black-onyx-925-silver-bubble-ring"/>
+    <title>Black Onyx 925 Silver Bubble Ring</title>
+    <s:type>accessories</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/48.1.jpg?v=1626192277"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>accessories<br>
+        <strong>Price: </strong>
+            260.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>stone: Black Onyx </p>
+<p>weight of silver: 2.8<span data-mce-fragment="1"> gram</span></p>
+<p>size:<span data-mce-fragment="1"> US 6.5</span></p>
+<p> </p>
+<p><meta charset="utf-8"><meta charset="utf-8"><span data-mce-fragment="1">ONLY ONE</span><br></p>
+<p>made in India</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/6909637951643</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">260.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/6909629890715</id>
+    <published>2021-07-14T00:01:00+08:00</published>
+    <updated>2021-07-14T00:01:00+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/rose-quartz-925-silver-bubble-ring"/>
+    <title>Rose Quartz 925 Silver Bubble Ring</title>
+    <s:type>accessories</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/47.1.jpg?v=1626192154"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>accessories<br>
+        <strong>Price: </strong>
+            260.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>stone: Rose Quartz</p>
+<p>weight of silver: 2.8<span data-mce-fragment="1"> gram</span></p>
+<p>size:<span data-mce-fragment="1"> US 6.5/ US 7</span></p>
+<p> </p>
+<p><meta charset="utf-8"><meta charset="utf-8"><span data-mce-fragment="1">ONLY ONE available in each size</span><br></p>
+<p>made in India</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/6909629890715</id>
+      <title>US 6.5</title>
+      <s:price currency="HKD">260.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/6909629890715</id>
+      <title>US 7</title>
+      <s:price currency="HKD">260.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/6909626679451</id>
+    <published>2021-07-13T23:59:30+08:00</published>
+    <updated>2021-07-13T23:59:30+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/rainbow-moonstone-925-silver-bubble-ring"/>
+    <title>Rainbow Moonstone 925 Silver Bubble Ring</title>
+    <s:type>accessories</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/44.1.jpg?v=1626192021"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>accessories<br>
+        <strong>Price: </strong>
+            260.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>stone: Rainbow Moonstone</p>
+<p>weight of silver: 2.9<span data-mce-fragment="1"> gram</span></p>
+<p>size:<span data-mce-fragment="1"> US 7.5</span></p>
+<p> </p>
+<p><meta charset="utf-8"><span>ONLY ONE</span></p>
+<p>made in India</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/6909626679451</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">260.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/6909622059163</id>
+    <published>2021-07-13T23:57:24+08:00</published>
+    <updated>2021-07-13T23:57:24+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/labradorite-925-silver-cigar-band-ring"/>
+    <title>Labradorite 925 Silver Cigar Band Ring</title>
+    <s:type>accessories</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/42.4.jpg?v=1626191905"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>accessories<br>
+        <strong>Price: </strong>
+            420.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>stone: Labradorite</p>
+<p>weight of silver: 4.4<span data-mce-fragment="1"> gram</span></p>
+<p>size:<span data-mce-fragment="1"> US 8</span></p>
+<p> </p>
+<p><meta charset="utf-8"><span>ONLY ONE</span></p>
+<p>made in India</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/6909622059163</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">420.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/6909607018651</id>
+    <published>2021-07-13T23:51:48+08:00</published>
+    <updated>2021-07-13T23:51:48+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/black-onyx-925-silver-cigar-band-ring"/>
+    <title>Black Onyx 925 Silver Cigar Band Ring</title>
+    <s:type>accessories</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/40-411.jpg?v=1626191568"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>accessories<br>
+        <strong>Price: </strong>
+            420.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>stone: Turquoise</p>
+<p>weight of silver: 4.3<span data-mce-fragment="1"> gram/ 4.7 gram</span></p>
+<p>size: US 7.5/ <meta charset="utf-8"><span data-mce-fragment="1">US 8/ US 8</span></p>
+<p> </p>
+<p><meta charset="utf-8"><span>ONLY ONE available in each size</span></p>
+<p>made in India</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/6909607018651</id>
+      <title>US 7.5</title>
+      <s:price currency="HKD">420.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/6909607018651</id>
+      <title>US 8</title>
+      <s:price currency="HKD">420.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/6909601448091</id>
+    <published>2021-07-13T23:49:05+08:00</published>
+    <updated>2021-07-13T23:49:05+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/turquoise-925-silver-cigar-band-ring"/>
+    <title>Turquoise 925 Silver Cigar Band Ring</title>
+    <s:type>accessories</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/37-39.1.jpg?v=1626191434"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>accessories<br>
+        <strong>Price: </strong>
+            420.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>stone: Turquoise</p>
+<p>weight of silver: 4.7<span data-mce-fragment="1"> gram</span></p>
+<p>size: US 8/ <meta charset="utf-8"><span data-mce-fragment="1">US 8/ US 9</span></p>
+<p> </p>
+<p><meta charset="utf-8"><span>ONLY ONE available in each size</span></p>
+<p>made in India</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/6909601448091</id>
+      <title>US 8</title>
+      <s:price currency="HKD">420.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/6909601448091</id>
+      <title>US 9</title>
+      <s:price currency="HKD">420.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/6909593321627</id>
+    <published>2021-07-13T23:45:08+08:00</published>
+    <updated>2021-07-13T23:45:08+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/turquoise-925-silver-ring-wider"/>
+    <title>Turquoise 925 Silver Ring (Wider)</title>
+    <s:type>accessories</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/52.1.jpg?v=1626191175"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>accessories<br>
+        <strong>Price: </strong>
+            340.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>stone: Turquoise</p>
+<p>weight of silver: 4.5<span data-mce-fragment="1"> gram</span></p>
+<p>size: US 9</p>
+<p> </p>
+<p><meta charset="utf-8"><span>ONLY ONE available in each size</span></p>
+<p>made in India</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/6909593321627</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">340.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/6909586243739</id>
+    <published>2021-07-13T23:40:46+08:00</published>
+    <updated>2021-07-13T23:40:46+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/turquoise-925-silver-ring-thinner"/>
+    <title>Turquoise 925 Silver Ring (Thinner)</title>
+    <s:type></s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/32-34.1.jpg?v=1626190961"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>stone: Turquoise</p>
+<p>weight of silver: 2.8<meta charset="utf-8"><span data-mce-fragment="1"> gram</span>/ 3.0 gram</p>
+<p>size: US 6/ US 7</p>
+<p> </p>
+<p><meta charset="utf-8"><span>ONLY ONE available in each size</span></p>
+<p>made in India</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/6909586243739</id>
+      <title>US 6</title>
+      <s:price currency="HKD">240.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/6909586243739</id>
+      <title>US 7</title>
+      <s:price currency="HKD">240.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/6909578969243</id>
+    <published>2021-07-13T23:36:58+08:00</published>
+    <updated>2021-07-13T23:36:58+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/labradorite-925-silver-ring%E7%9A%84%E5%89%AF%E6%9C%AC"/>
+    <title>Turquoise Drop 925 Silver Band Ring</title>
+    <s:type></s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/26.3.jpg?v=1626190733"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            390.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>stone: Turquoise</p>
+<p>weight of silver: 5.6 gram</p>
+<p>size: US 8</p>
+<p> </p>
+<p>ONLY ONE</p>
+<p>made in India</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/6909578969243</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">390.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/6909576773787</id>
+    <published>2021-07-13T23:35:31+08:00</published>
+    <updated>2021-07-13T23:35:31+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/labradorite-925-silver-ring-2"/>
+    <title>Labradorite 925 Silver Ring</title>
+    <s:type>accessories</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/25.1.jpg?v=1626190572"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>accessories<br>
+        <strong>Price: </strong>
+            250.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>stone: Labradorite</p>
+<p>size: US 7.5</p>
+<p> </p>
+<p>ONLY ONE</p>
+<p>made in India</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/6909576773787</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">250.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/6909571989659</id>
+    <published>2021-07-13T23:32:53+08:00</published>
+    <updated>2021-07-13T23:32:53+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/labradorite-925-silver-ring-1"/>
+    <title>Labradorite 925 Silver Ring</title>
+    <s:type></s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/21.1.jpg?v=1626190452"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            190.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>stone: Labradorite</p>
+<p>weight of silver: 5 gram</p>
+<p>size: US 6</p>
+<p> </p>
+<p>ONLY ONE</p>
+<p>made in India</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/6909571989659</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">190.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/6909564518555</id>
+    <published>2021-07-13T23:28:29+08:00</published>
+    <updated>2021-07-13T23:28:29+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/rainbow-moonstone-cubic-zirconia-925-silver-ring"/>
+    <title>Rainbow Moonstone &amp; Cubic Zirconia 925 Silver Ring</title>
+    <s:type>accessories</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/20.1.jpg?v=1626190219"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>accessories<br>
+        <strong>Price: </strong>
+            350.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">stone: Rainbow Moonstone &amp; Cubic Zirconia</p>
+<p data-mce-fragment="1">size: <span data-mce-fragment="1">US 9.5</span></p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><span>ONLY ONE in stock</span></p>
+<p data-mce-fragment="1">made in India</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/6909564518555</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">350.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/6909557964955</id>
+    <published>2021-07-13T23:24:32+08:00</published>
+    <updated>2021-07-13T23:24:32+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/rhodochrosite-925-silver-ring"/>
+    <title>Rhodochrosite 925 Silver Ring</title>
+    <s:type>accessories</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/18.3_0fba3745-f7b3-4c34-b42d-59d3e707afd6.jpg?v=1626189987"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>accessories<br>
+        <strong>Price: </strong>
+            490.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">stone: Rhodochrosite </p>
+<p data-mce-fragment="1">weight of silver: 11.6<span data-mce-fragment="1"> gram</span></p>
+<p data-mce-fragment="1">size: <span data-mce-fragment="1">US 5</span></p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><span>ONLY ONE in stock</span></p>
+<p data-mce-fragment="1">made in India</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/6909557964955</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">490.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/6909552918683</id>
+    <published>2021-07-13T23:21:56+08:00</published>
+    <updated>2021-07-13T23:21:56+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/picture-jasper-925-silver-ring"/>
+    <title>Picture Jasper 925 Silver Ring</title>
+    <s:type>accessories</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/16.5.jpg?v=1626189801"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>accessories<br>
+        <strong>Price: </strong>
+            390.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">stone: Picture Jasper</p>
+<p data-mce-fragment="1">weight of silver: 8.5<span data-mce-fragment="1"> gram</span></p>
+<p data-mce-fragment="1">size: <span data-mce-fragment="1">US </span>8</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><span>ONLY ONE in stock</span></p>
+<p data-mce-fragment="1">made in India</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/6909552918683</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">390.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/6909546496155</id>
+    <published>2021-07-13T23:18:01+08:00</published>
+    <updated>2021-07-13T23:18:01+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/crystal-drop-925-silver-ring"/>
+    <title>Crystal Drop 925 Silver Ring</title>
+    <s:type>accessories</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/11-15.2.jpg?v=1626189660"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>accessories<br>
+        <strong>Price: </strong>
+            290.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">stone: Crystal </p>
+<p data-mce-fragment="1">weight of silver: 2.3/ 2.3/ 2.4/ 2.4<span data-mce-fragment="1"> gram</span></p>
+<p data-mce-fragment="1">size: US 6/ <meta charset="utf-8"><span data-mce-fragment="1">US </span>7/ <span data-mce-fragment="1">US </span>8/<meta charset="utf-8"><span data-mce-fragment="1"> </span><meta charset="utf-8"><span data-mce-fragment="1">US </span>8</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><span>4 in stock</span></p>
+<p data-mce-fragment="1">made in India</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/6909546496155</id>
+      <title>US 6</title>
+      <s:price currency="HKD">290.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/6909546496155</id>
+      <title>US 7</title>
+      <s:price currency="HKD">290.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/6909546496155</id>
+      <title>US 8</title>
+      <s:price currency="HKD">290.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/6909539877019</id>
+    <published>2021-07-13T23:14:32+08:00</published>
+    <updated>2021-07-13T23:14:32+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/labradorite-925-silver-ring"/>
+    <title>Labradorite 925 Silver Ring</title>
+    <s:type>accessories</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/5.1_d14921a2-376e-4b60-bcc9-8961c6fb206a.jpg?v=1626189348"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>accessories<br>
+        <strong>Price: </strong>
+            180.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">stone: Labradorite</p>
+<p data-mce-fragment="1">weight of silver: 2.2<span data-mce-fragment="1"> gram</span></p>
+<p data-mce-fragment="1">size: US 8</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><span>2 in stock</span></p>
+<p data-mce-fragment="1">made in India</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/6909539877019</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">180.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/6909534470299</id>
+    <published>2021-07-13T23:11:34+08:00</published>
+    <updated>2021-07-13T23:11:34+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/moonstone-925-silver-band-ring"/>
+    <title>Moonstone 925 Silver Band Ring</title>
+    <s:type>accessories</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/1-2.1.jpg?v=1626189096"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>accessories<br>
+        <strong>Price: </strong>
+            380.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">stone: Moonstone</p>
+<p data-mce-fragment="1">weight of silver: 5gram</p>
+<p data-mce-fragment="1">size: US 5</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><meta charset="utf-8"><span>ONLY ONE</span></p>
+<p data-mce-fragment="1">made in India</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/6909534470299</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">380.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/5661011214491</id>
+    <published>2021-05-05T21:41:25+08:00</published>
+    <updated>2021-05-05T21:41:25+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/dotty-check-hand-block-printed-tunic"/>
+    <title>DOTTY CHECK – Hand Block Printed Tunic</title>
+    <s:type>one-piece</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/DSC04571copy_4f3e4151-068b-4aac-aa31-82a849e5b85c.jpg?v=1601311109"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>one-piece<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"><span data-mce-fragment="1">◙ 手紡棉線及手工梭織布料 Hand woven Fabric</span></p>
+<p data-mce-fragment="1">印度傳統手<span data-mce-fragment="1">織布料，來自西孟加拉邦（Bengal），</span><span data-mce-fragment="1">用絲和棉線兩種纖維混合織成，連紡紗線皆以手工紡製而成（handspun）。棉為織物提供強度，而絲綢則使織物更具光澤，並賦予其柔軟感。</span></p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><meta charset="utf-8"><span data-mce-fragment="1">◙ </span>手工木板印刷 Hand Block Printed Fabric</p>
+<p data-mce-fragment="1">手工木版印花，是印度傳統工藝，每一下印刷都十分精準，圖案整齊，體現工匠的豐富經驗。 待染料乾燥後，布料會經洗滌並曬乾，過程天然，不會對環境造成破壞。手工印製而成的布料需要是重覆<meta charset="utf-8">圖案，近看時卻能發現略有偏差，比起機器生產印刷的布料顯得更有溫度和活力。</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">◙ 雙色碎花印花</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">完成雙色印花需要兩次手工木版印花的工序，每次完成一個顏色的印刷，需要精湛的技巧才能完成準確的印花，其工序不能考工夫，更十分費時。</span> </p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">◙ 手縫領口</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">比起用機器車縫，設計師選擇用手工將條紋布與柯根紗綁合，效果更具特色。</span></p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><meta charset="utf-8"><span data-mce-fragment="1">◙ 左右皆有</span>蕾絲細節及接褶設計</p>
+<p data-mce-fragment="1"> </p>
+<p><span data-mce-fragment="1">◙ 套裝</span>設計</p>
+<p>衣服配有吊帶長裙（<span data-mce-fragment="1">100％棉）</span>，作打底之用，不怕透。</p>
+<p data-mce-fragment="1">  </p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">◙ 衣物</span>護理</p>
+<p data-mce-fragment="1">建議輕柔手洗。</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><meta charset="utf-8"><span data-mce-fragment="1">◙ 尺寸</span></p>
+<p><img height="100" width="347" alt="" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/files/Screenshot_2020-09-29_at_12.35.57_AM_480x480.png?v=1601311027" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0398/9127/1835/files/Screenshot_2020-09-29_at_12.35.57_AM_480x480.png?v=1601311027"><br><meta charset="utf-8"></p>
+<p><meta charset="utf-8"><span>Model 158cm，49kg，M碼示範。</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5661011214491</id>
+      <title>XS</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5661011214491</id>
+      <title>S</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5661011214491</id>
+      <title>M</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5661011214491</id>
+      <title>L</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5661011214491</id>
+      <title>XL</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/5651335381147</id>
+    <published>2021-05-05T21:41:24+08:00</published>
+    <updated>2021-05-05T21:41:24+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/dot-hand-embroidered-long-shirt-camisole-set"/>
+    <title>DOT – Hand Embroidered Long Shirt &amp; Camisole Set</title>
+    <s:type>one-piece</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/DSC04186.jpg?v=1601055219"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>one-piece<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p data-mce-fragment="1"><span data-mce-fragment="1">◙ <meta charset="utf-8">100% 絲質柯根紗布料 1<meta charset="utf-8">00% <meta charset="utf-8">Silk Organza Fabric</span></p>
+<p data-mce-fragment="1">啞光質感，厚實挺身的<span data-mce-fragment="1">絲質柯根紗布料，手感細滑。</span></p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><meta charset="utf-8"><span>◙ 手工刺繡圓點</span></p>
+<p data-mce-fragment="1">袖身的圓點皆以人手刺繡完成，工匠先起稿，再準確地刺繡每一顆圓點，手工精細且具立體感，是整件衣服的重點所在。</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">◙ 套裝</span>設計</p>
+<p data-mce-fragment="1">衣服配有條紋圖案吊帶長裙（<meta charset="utf-8"><span data-mce-fragment="1">100％棉）</span>，作打底之用，不怕透。打底裙領口更有碎褶設計，平日配襯其他衣服或單穿亦可。透明外裙也可配搭其他衣服，兩件都十分實用。</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">◙ 一整排手工布包鈕扣</span></p>
+<p data-mce-fragment="1">工人以人手將布料剪成小方塊，再製成布包扣，十分費工，讓衣服整體感覺更完整及有質感。 </p>
+<p data-mce-fragment="1">   </p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">◙ 拼布</span>設計</p>
+<p>衣服的肩上、領口、袖口、和腰間綁帶拼了條紋棉布，形成有趣的對比。</p>
+<p data-mce-fragment="1"> <meta charset="utf-8"></p>
+<p><span data-mce-fragment="1">◙ </span>寬鬆設計</p>
+<p>衣服<meta charset="utf-8">肩上有大量皺褶，寬鬆而用布量大，整件衣服都用純絲質布料製成，成本高昂。</p>
+<p> </p>
+<p><meta charset="utf-8"><span data-mce-fragment="1">◙ 弧形</span>下擺</p>
+<p>可露出配襯在裡面的裙褲，盡顯穿搭層次。</p>
+<p> </p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">◙ 衣物</span>護理</p>
+<p data-mce-fragment="1">建議輕柔手洗。</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><meta charset="utf-8"><span data-mce-fragment="1">◙ 尺寸</span></p>
+<p data-mce-fragment="1"><meta charset="utf-8"><img data-mce-fragment="1" height="107" width="282" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/files/Screenshot_2020-09-26_at_1.26.44_AM_480x480.png?v=1601054823" alt="" data-mce-selected="1" data-mce-src="https://cdn.shopify.com/s/files/1/0398/9127/1835/files/Screenshot_2020-09-26_at_1.26.44_AM_480x480.png?v=1601054823"><br><meta charset="utf-8"></p>
+<p data-mce-fragment="1">Model 165cm，51kg，M碼示範。</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5651335381147</id>
+      <title>XS</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5651335381147</id>
+      <title>S</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5651335381147</id>
+      <title>M</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5651335381147</id>
+      <title>L</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5651335381147</id>
+      <title>XL</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/6632989786267</id>
+    <published>2021-04-05T16:56:59+08:00</published>
+    <updated>2021-04-05T16:56:59+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/000top"/>
+    <title>ESTHER Embroidered top with crochet detail</title>
+    <s:type></s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/DSC06750.jpg?v=1617542889"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1850.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"><span data-mce-fragment="1"></span><meta charset="utf-8">布料是custom-made的挺括棉布，以紫色線繡上花朵圖案。<br></p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">每個拼接口及布邊都以綠色的刺繡線，手工鏽上Shell Stitch及Blanket Stitch飾邊，包括領口、袖口、下擺、縫接處以至綁帶，手工需時之長<meta charset="utf-8">可想而之。</span></p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1">最特別之處是<meta charset="utf-8">領口、袖口及<meta charset="utf-8">下擺的波浪邊是不規則的，展現了手工製作的隨性，是工廠大量製造的fast fashion無可比擬的。<br></p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1">袖口的粗綁帶可綁成大蝴蝶結，十分特別和搶眼。<meta charset="utf-8">紫色和綠色的配色和諧又醒目。<br></p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"> <meta charset="utf-8"></p>
+<p><span>M</span><span>odel is 168cm and is wearing size M.</span></p>
+<p> </p>
+<p>Slow fashion handmade in India</p>
+<p>Dry clean only</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/6632989786267</id>
+      <title>S</title>
+      <s:price currency="HKD">1850.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/6632989786267</id>
+      <title>M</title>
+      <s:price currency="HKD">1850.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

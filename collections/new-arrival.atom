@@ -1,0 +1,962 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://oldiesoldies.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://oldiesoldies.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://oldiesoldies.com/collections/new-arrival.atom"/>
+  <title>oldiesoldies</title>
+  <updated>2022-11-11T20:55:04+08:00</updated>
+  <author>
+    <name>oldiesoldies</name>
+  </author>
+  <entry>
+    <id>https://oldiesoldies.com/products/7541057749147</id>
+    <published>2022-11-11T20:55:04+08:00</published>
+    <updated>2022-11-11T20:55:04+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/vintage"/>
+    <title>1980&apos;s Vintage Necklace</title>
+    <s:type>accessories</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/6copy_ff4380ec-64e7-4822-b495-473fd62c7d16.jpg?v=1668171439"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>accessories<br>
+        <strong>Price: </strong>
+            580.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">1980's<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1">長度：55cm</p>
+<p data-mce-fragment="1">材質：黃銅&amp;玻璃</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1">狀態完好，但畢竟項鍊已四十歲，因此黃銅不可能是簇新的，會有一定程度氧化及變色，但氧化也是復古黃銅的樂趣之一。</p>
+<p data-mce-fragment="1">*注意：實物較圖片黑。</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">注意水、汗水、雨水都會令黃銅氧化。</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">如不喜歡黃銅的黑斑或銅銹，可自行清除。</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>vintage</s:tag>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/7541057749147</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">580.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/7368390770843</id>
+    <published>2022-05-25T00:17:51+08:00</published>
+    <updated>2022-05-25T00:17:51+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/1980s-vintage-necklace-1"/>
+    <title>1980&apos;s Vintage Necklace (SOLD)</title>
+    <s:type>accessories</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/1copy_2f463686-171c-44ca-aab1-c758c62bef9b.jpg?v=1653408418"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>accessories<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1980's<br></p>
+<p> </p>
+<p>長度：40cm</p>
+<p><meta charset="utf-8">材質：黃銅&amp;玻璃</p>
+<p> </p>
+<p>狀態完好，但畢竟項鍊已四十歲，因此黃銅不可能是簇新的，會有一定程度氧化及變色，但氧化也是復古黃銅的樂趣之一。</p>
+<p> </p>
+<p><meta charset="utf-8"><span data-mce-fragment="1">注意水、汗水、雨水都會令黃銅氧化。</span></p>
+<p><span data-mce-fragment="1">如不喜歡<meta charset="utf-8">黃銅<meta charset="utf-8">的黑斑或銅銹，可自行清除。</span></p>
+<p> </p>
+<p><meta charset="utf-8"><span>ONLY ONE</span><br><br><span>made in USA</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>vintage</s:tag>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/7368390770843</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/7367631667355</id>
+    <published>2022-05-23T23:49:18+08:00</published>
+    <updated>2022-05-23T23:49:18+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/1980s-vintage-necklace"/>
+    <title>1980&apos;s Vintage Necklace (SOLD)</title>
+    <s:type>accessories</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/4_c3244d84-cf9b-4b29-93d6-3faaecf1d7d5.jpg?v=1653320959"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>accessories<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1980's<br></p>
+<p> </p>
+<p>長度：80cm</p>
+<p><meta charset="utf-8">材質：黃銅&amp;玻璃</p>
+<p> </p>
+<p>狀態完好，但黃銅有一定程度氧化，但氧化也是復古黃銅的樂趣之一，<meta charset="utf-8">不影響配戴效果。</p>
+<p> </p>
+<p><meta charset="utf-8"><span data-mce-fragment="1">注意水、汗水、雨水都會令黃銅氧化。</span></p>
+<p><span data-mce-fragment="1">如不喜歡<meta charset="utf-8">黃銅<meta charset="utf-8">的黑斑或銅銹，可自行清除。</span></p>
+<p><br></p>
+<p>可當長頸鍊配戴或繞一圈戴。</p>
+<p> </p>
+<p><meta charset="utf-8"><span>ONLY ONE</span><br><br><span>made in USA</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>vintage</s:tag>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/7367631667355</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/7264284278939</id>
+    <published>2022-01-21T19:20:01+08:00</published>
+    <updated>2022-01-21T19:20:01+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/vintage-belt-38"/>
+    <title>Vintage Belt</title>
+    <s:type>accessories</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/7_9fb427ab-e358-4c16-8ae2-942b8de5c413.jpg?v=1642764002"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>accessories<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">有壓花的皮帶，立體愛心的花紋也很精緻。</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1">Condition：<span data-mce-fragment="1">皮帶是真皮，皮質軟身，整體狀態良好，</span>有明顯使用痕跡，皮帶孔兩側邊有磨擦痕<meta charset="utf-8"><span data-mce-fragment="1">跡</span>，<span data-mce-fragment="1">金屬有刮痕及變色（見圖片）。</span></p>
+<p data-mce-fragment="1">Size: 28.5<span data-mce-fragment="1">" to 31.5" </span> </p>
+<p data-mce-fragment="1"><meta charset="utf-8"><span>（常穿牛仔褲頭的朋友建議較大的尺碼，喜歡搭配單薄的襯衫或裙子的朋友建議按自己腰圍購買。）</span></p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">ONLY ONE</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">made in USA</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>vintage</s:tag>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/7264284278939</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/7221233352859</id>
+    <published>2021-11-30T21:35:40+08:00</published>
+    <updated>2021-11-30T21:35:40+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/vintage-vivienne-westwood-backpack"/>
+    <title>Vintage Vivienne Westwood Backpack (SOLD)</title>
+    <s:type>bag</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/bag.1_fb39ecbd-6c99-45f1-b255-247f6b3ee456.jpg?v=1638279339"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>bag<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>未使用品，容量大，肩帶可調節，內有兩個小暗間及一個拉鏈暗格，外有兩個側格，十分實用。</p>
+<p>有存放痕跡，紫色皮有變色成紫紅的情況，請見圖片。</p>
+<p> </p>
+<p>Size: L30 x W12.5 x H28 </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bag</s:tag>
+    <s:tag>christmas</s:tag>
+    <s:tag>vintage</s:tag>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/7221233352859</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/7201530806427</id>
+    <published>2021-11-08T00:48:34+08:00</published>
+    <updated>2021-11-08T00:48:34+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/vintage-belt-34"/>
+    <title>Vintage Belt (SOLD)</title>
+    <s:type>accessories</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/10_bfe716a5-2198-4847-97f9-8ef6c4f34983.jpg?v=1636303717"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>accessories<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"><meta charset="utf-8"><span data-mce-fragment="1">復古的</span>西部牛仔風格皮帶，金屬配件的花紋十分精緻。這條是難得的未使用品，只有存放痕跡。它的牛皮十分有質感，皮帶背部印有Top Grain Leather的sign。</p>
+<p data-mce-fragment="1">Condition：<meta charset="utf-8"><span data-mce-fragment="1">頭層牛皮</span><span data-mce-fragment="1">真皮，<meta charset="utf-8">厚實但一點都不硬。整體狀態十分良好，全新連牌，但有存放</span>痕跡（見圖片）。</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1">Size: 28.5<span data-mce-fragment="1">" to 31.5" <meta charset="utf-8">（可自行打孔）</span></p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">ONLY ONE</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">made in USA in 1996.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>christmas</s:tag>
+    <s:tag>vintage</s:tag>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/7201530806427</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/7112373797019</id>
+    <published>2021-09-29T22:21:37+08:00</published>
+    <updated>2021-09-29T22:21:37+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/vintage-belt-32"/>
+    <title>Vintage Belt (SOLD)</title>
+    <s:type>accessories</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/1copy.jpg?v=1632926346"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>accessories<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">同樣是有點西部風格的vintage belt，整條皮帶都是金屬配件，十分搶眼。有時皮帶孔的位置很尷尬，不是太緊就是太鬆，但這條是沒有皮帶孔的！交織皮帶之間任何一個位置都是皮帶孔～</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1">Condition：<span data-mce-fragment="1">皮帶是真皮，狀態良好，有輕微使用痕跡，</span>金屬有變色（見圖片）。</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1">Size: 25.5" - 全長32"<span data-mce-fragment="1"> </span></p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">ONLY ONE</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Metals- made in Taiwan</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Leather</span><span data-mce-fragment="1">- made in China</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>christmas</s:tag>
+    <s:tag>vintage</s:tag>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/7112373797019</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/7050412818587</id>
+    <published>2021-09-08T00:24:58+08:00</published>
+    <updated>2021-09-08T00:24:58+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/vintage-belt-31"/>
+    <title>Vintage Belt (SOLD)</title>
+    <s:type>accessories</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/16.jpg?v=1631031403"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>accessories<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">同樣是<meta charset="utf-8">最近正流行的西部牛仔風格，仔細看每一信金屬配件的花紋都略有不同呢，十分精緻。比起人造皮皮帶，真皮顯得有質感許多。我也很喜歡稍黑的金屬，感覺更復古，太光亮的金屬令人感覺不太自然。</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1">Condition：<span data-mce-fragment="1">皮帶是真皮，皮質不會太厚。<meta charset="utf-8">以將近30歲以言，她的整體狀態良好，但</span>有使用痕跡，金屬有刮痕及變色（見圖片）。</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1">Size: 27<span data-mce-fragment="1">" to 30" </span></p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">ONLY ONE</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">made in USA in 1992.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>christmas</s:tag>
+    <s:tag>vintage</s:tag>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/7050412818587</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/6907254898843</id>
+    <published>2021-07-13T19:07:12+08:00</published>
+    <updated>2021-07-13T19:07:12+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/vintage-belt-18"/>
+    <title>Vintage Belt</title>
+    <s:type>accessories</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/3_1a938f0d-adcf-4a10-b494-85b81e22c373.jpg?v=1626111019"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>accessories<br>
+        <strong>Price: </strong>
+            520.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>焦糖色皮帶可以提亮造型，金屬扣的雕花很精緻很復古，整條皮帶都有<meta charset="utf-8"><span data-mce-fragment="1">金屬製飾</span>，連末端都有，細節感滿滿！</p>
+<p> </p>
+<p>Condition：皮帶是真皮，皮質不會太硬。整體狀態良好，有使用痕跡，皮面及<meta charset="utf-8">金屬扣均有輕微刮痕（見圖片），金屬稍有變色。</p>
+<p>Size: 28 to 32" （可自行打孔）</p>
+<p> </p>
+<p>ONLY ONE</p>
+<p>made in USA in 1996.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>christmas</s:tag>
+    <s:tag>vintage</s:tag>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/6907254898843</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">520.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/6870662381723</id>
+    <published>2021-06-28T22:06:55+08:00</published>
+    <updated>2021-06-28T22:06:55+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/vintage-deadstock-belt-black"/>
+    <title>Vintage Deadstock Belt (Black)</title>
+    <s:type>accessories</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/6copy.jpg?v=1624889341"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>accessories<br>
+        <strong>Price: </strong>
+            750.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">這條同款之前曾經上架，但當時只有一條，賣出後不時有客人詢問，表示錯過了很失望，後來竟然奇跡地讓我找到幾條！Deadstock 是指已停產的全新存貨，相信這幾條可能是世界最後幾條了！所以喜歡的真的真的不要錯過～～</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1">Condition：全新，無瑕疵。</p>
+<p data-mce-fragment="1">Size: 基本free size，可以fit到大部分腰圍。</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>vintage</s:tag>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/6870662381723</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">750.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/6846595793051</id>
+    <published>2021-06-20T22:20:37+08:00</published>
+    <updated>2021-06-20T22:20:37+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/vintage-deadstock-belt"/>
+    <title>Vintage Deadstock Belt (SOLD OUT)</title>
+    <s:type>accessories</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/5.1_544a2ca9-903c-4cad-b84f-f67e6f26647a.jpg?v=1624198838"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>accessories<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">這條同款之前曾經上架，但當時只有一條，賣出後不時有客人詢問，表示錯過了很失望，後來竟然奇跡地讓我找到幾條！<meta charset="utf-8">Deadstock 是指已停產的全新存貨，相信這幾條可能是世界最後幾條了！所以喜歡的真的真的不要錯過～～</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1">Condition：全新，無瑕疵。</p>
+<p data-mce-fragment="1">Size: 基本free size，可以fit到大部分腰圍，但各長度小有不同，購買時可告知腰圍，我們會幫你檢查是否合適。</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1">made in Taiwan</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>christmas</s:tag>
+    <s:tag>vintage</s:tag>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/6846595793051</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/6633918627995</id>
+    <published>2021-04-05T17:30:04+08:00</published>
+    <updated>2021-04-05T17:30:04+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/etienne-aigner-canvas-vintage-bag"/>
+    <title>Etienne Aigner Canvas Vintage Bag</title>
+    <s:type></s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/DSC06678_2978741b-b0c4-4bf4-b04c-f7b6825e8dfb.jpg?v=1617615005"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            480.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>new with tag</p>
+<p>adjustable strap</p>
+<p> </p>
+<p>未新未使用品</p>
+<p>金屬因長期存放有輕微氧化情況</p>
+<p>請參考圖片</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>vintage</s:tag>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/6633918627995</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">480.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/6632989786267</id>
+    <published>2021-04-05T16:56:59+08:00</published>
+    <updated>2021-04-05T16:56:59+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/000top"/>
+    <title>ESTHER Embroidered top with crochet detail</title>
+    <s:type></s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/DSC06750.jpg?v=1617542889"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1850.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"><span data-mce-fragment="1"></span><meta charset="utf-8">布料是custom-made的挺括棉布，以紫色線繡上花朵圖案。<br></p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">每個拼接口及布邊都以綠色的刺繡線，手工鏽上Shell Stitch及Blanket Stitch飾邊，包括領口、袖口、下擺、縫接處以至綁帶，手工需時之長<meta charset="utf-8">可想而之。</span></p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1">最特別之處是<meta charset="utf-8">領口、袖口及<meta charset="utf-8">下擺的波浪邊是不規則的，展現了手工製作的隨性，是工廠大量製造的fast fashion無可比擬的。<br></p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1">袖口的粗綁帶可綁成大蝴蝶結，十分特別和搶眼。<meta charset="utf-8">紫色和綠色的配色和諧又醒目。<br></p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"> <meta charset="utf-8"></p>
+<p><span>M</span><span>odel is 168cm and is wearing size M.</span></p>
+<p> </p>
+<p>Slow fashion handmade in India</p>
+<p>Dry clean only</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/6632989786267</id>
+      <title>S</title>
+      <s:price currency="HKD">1850.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/6632989786267</id>
+      <title>M</title>
+      <s:price currency="HKD">1850.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/6632988803227</id>
+    <published>2021-04-05T16:56:48+08:00</published>
+    <updated>2021-04-05T16:56:48+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/000shirt"/>
+    <title>Appliqué Embroidered Cotton Shirt</title>
+    <s:type></s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/DSC06720_4aee0446-6b2d-4e43-b159-4666fc2fbcbc.jpg?v=1617542729"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3490.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<div class="product-page--description" data-mce-fragment="1">
+<div class="rte-content" data-mce-fragment="1" itemprop="description">
+<h5 id="firstHeading" class="firstHeading"><br></h5>
+<p>法語 Appliqué「貼花」是一種裝飾性的手工針線技巧，工藝稱將不同形狀的小塊布料縫製在較大的一塊上，形成有立體感的圖案。</p>
+<p><img height="332" width="357" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/files/Screenshot_2021-04-07_at_10.59.45_PM_480x480.png?v=1617808178" alt="" data-mce-src="https://cdn.shopify.com/s/files/1/0398/9127/1835/files/Screenshot_2021-04-07_at_10.59.45_PM_480x480.png?v=1617808178"></p>
+<p><meta charset="utf-8">每件<meta charset="utf-8">衣服的圖案都是定位的，而非單純的重覆圖案。工藝師用手工將細小、<meta charset="utf-8">裁剪成花朵狀的網布及棉布逐片<meta charset="utf-8"><span data-mce-fragment="1">縫製在印有品牌設計的花朵圖案網布上，十分費時費工夫。</span>另外，<meta charset="utf-8"><span data-mce-fragment="1">工藝師</span>在沒有貼花的位置，沿印花加上手工刺繡，整塊布料的手工毫不馬虎。</p>
+<p><img height="349" width="360" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/files/Screenshot_2021-04-07_at_10.58.57_PM_480x480.png?v=1617807788" alt="" data-mce-src="https://cdn.shopify.com/s/files/1/0398/9127/1835/files/Screenshot_2021-04-07_at_10.58.57_PM_480x480.png?v=1617807788"></p>
+<table data-mce-fragment="1">
+<tbody data-mce-fragment="1">
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1"></td>
+<td data-mce-fragment="1">
+<h6 data-mce-fragment="1"><span data-mce-fragment="1"> SMALL</span></h6>
+</td>
+<td data-mce-fragment="1">
+<h6 data-mce-fragment="1"><span data-mce-fragment="1">MEDIUM</span></h6>
+</td>
+<td data-mce-fragment="1">
+<h6 data-mce-fragment="1"><span data-mce-fragment="1">LARGE</span></h6>
+</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">
+<h6 data-mce-fragment="1"><span data-mce-fragment="1">1/2 Chest (in)</span></h6>
+</td>
+<td data-mce-fragment="1">
+<h6 data-mce-fragment="1"><span data-mce-fragment="1">22</span></h6>
+</td>
+<td data-mce-fragment="1">
+<h6 data-mce-fragment="1"><span data-mce-fragment="1">23</span></h6>
+</td>
+<td data-mce-fragment="1">
+<h6 data-mce-fragment="1"><span data-mce-fragment="1">24</span></h6>
+</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">
+<h6 data-mce-fragment="1"><span data-mce-fragment="1">Length (in)</span></h6>
+</td>
+<td data-mce-fragment="1">
+<h6 data-mce-fragment="1"><span data-mce-fragment="1">22</span></h6>
+</td>
+<td data-mce-fragment="1">
+<h6 data-mce-fragment="1"><span data-mce-fragment="1">22.5</span></h6>
+</td>
+<td data-mce-fragment="1">
+<h6 data-mce-fragment="1"><span data-mce-fragment="1">23</span></h6>
+</td>
+</tr>
+</tbody>
+</table>
+<div data-popup="link" data-metafields="" data-tags="Applique,Apu,cotton,Crop Top,Hand embroidery,Mesh,Shirt,summer,Top" data-shop="untitled-co-clothing.myshopify.com" data-app="eastsideco_sizeGuides" data-mce-fragment="1"><br data-mce-fragment="1"></div>
+<div data-popup="link" data-metafields="" data-tags="Applique,Apu,cotton,Crop Top,Hand embroidery,Mesh,Shirt,summer,Top" data-shop="untitled-co-clothing.myshopify.com" data-app="eastsideco_sizeGuides" data-mce-fragment="1"></div>
+<div data-popup="link" data-metafields="" data-tags="Applique,Apu,cotton,Crop Top,Hand embroidery,Mesh,Shirt,summer,Top" data-shop="untitled-co-clothing.myshopify.com" data-app="eastsideco_sizeGuides" data-mce-fragment="1">Model is 168cm and is wearing size M.</div>
+<div data-popup="link" data-metafields="" data-tags="Applique,Apu,cotton,Crop Top,Hand embroidery,Mesh,Shirt,summer,Top" data-shop="untitled-co-clothing.myshopify.com" data-app="eastsideco_sizeGuides" data-mce-fragment="1"></div>
+</div>
+</div>
+<div class="product-page--images" data-mce-fragment="1">
+<div class="product-page--images-container" data-mce-fragment="1">
+<div data-js-loaded="true" data-js-class="FrameworkModal" class="modal--root" data-mce-fragment="1">
+<div class="modal--link" data-mce-fragment="1">
+<div data-id="13861536694342" data-active="true" class="product-page--image" data-mce-fragment="1">
+<div data-aspectratio="1.0" class="image--root" data-mce-fragment="1">
+<div class="image--container" data-mce-fragment="1"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p><meta charset="utf-8">Slow fashion handmade in India</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/6632988803227</id>
+      <title>S</title>
+      <s:price currency="HKD">3490.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/6632988803227</id>
+      <title>M</title>
+      <s:price currency="HKD">3490.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/6632988803227</id>
+      <title>L</title>
+      <s:price currency="HKD">3490.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/6632990441627</id>
+    <published>2021-04-05T16:56:30+08:00</published>
+    <updated>2021-04-05T16:56:30+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/000dress2"/>
+    <title>AVI Embroidered dress with hand stitch detail</title>
+    <s:type></s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/DSC06890.jpg?v=1617543012"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3380.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><meta charset="utf-8"><span>插肩袖設計，即使寬鬆都不會顯壯。</span></p>
+<p> </p>
+<p><span>布料是100%棉，微透是現今的流行元素！織紋是暗格紋，並混入了銀色亮絲，在光線下高貴且低調地閃爍。</span></p>
+<p> </p>
+<p><span data-mce-fragment="1">裙子的兩側有側縫口袋。</span></p>
+<p><span>設計重點是每個拼接口都運用了香繽金色的刺繡線，以手工鏽了飾邊，包括領口、袖口、下擺、縫接處以至綁帶的末端，手工需時之長<meta charset="utf-8">可想而之。另外，在領口、胸前及袖口處加上了白色複古的刺繡花紋，<meta charset="utf-8">細節是魔鬼，同色系刺繡低調又耐看。最特別之處是<meta charset="utf-8">領口、袖口及<meta charset="utf-8">下擺的波浪邊是不規則的，展現了手工製作的隨性，是工廠大量製造的fast fashion無可比擬的。</span></p>
+<p> </p>
+<table data-mce-fragment="1">
+<tbody data-mce-fragment="1">
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1"></td>
+<td data-mce-fragment="1">
+<h6 data-mce-fragment="1"><span data-mce-fragment="1"> SMALL</span></h6>
+</td>
+<td data-mce-fragment="1">
+<h6 data-mce-fragment="1"><span data-mce-fragment="1">MEDIUM</span></h6>
+</td>
+<td data-mce-fragment="1">
+<h6 data-mce-fragment="1"><span data-mce-fragment="1">LARGE</span></h6>
+</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">
+<h6 data-mce-fragment="1"><span data-mce-fragment="1">1/2 Chest (in)</span></h6>
+</td>
+<td data-mce-fragment="1">
+<h6 data-mce-fragment="1"><span data-mce-fragment="1">34</span></h6>
+</td>
+<td data-mce-fragment="1">
+<h6 data-mce-fragment="1"><span data-mce-fragment="1">36</span></h6>
+</td>
+<td data-mce-fragment="1">
+<h6 data-mce-fragment="1"><span data-mce-fragment="1">38</span></h6>
+</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">
+<h6 data-mce-fragment="1"><span data-mce-fragment="1">Length (in)</span></h6>
+</td>
+<td data-mce-fragment="1">
+<h6 data-mce-fragment="1"><span data-mce-fragment="1">46</span></h6>
+</td>
+<td data-mce-fragment="1">
+<h6 data-mce-fragment="1"><span data-mce-fragment="1">46.5</span></h6>
+</td>
+<td data-mce-fragment="1">
+<h6 data-mce-fragment="1"><span data-mce-fragment="1">47</span></h6>
+</td>
+</tr>
+</tbody>
+</table>
+<p><br></p>
+<p><meta charset="utf-8"><span>M</span><span>odel is 168cm and is wearing size M.</span></p>
+<p> </p>
+<p>Slow fashion handmade in India</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/6632990441627</id>
+      <title>S</title>
+      <s:price currency="HKD">3380.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/6632990441627</id>
+      <title>M</title>
+      <s:price currency="HKD">3380.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/6632987000987</id>
+    <published>2021-04-05T16:56:16+08:00</published>
+    <updated>2021-04-05T16:56:16+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/dress"/>
+    <title>AVI Schiffly Embroidered Blotch Dyed Dress</title>
+    <s:type></s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/DSC06649.jpg?v=1617542458"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3380.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><meta charset="utf-8"> 這條裙子讓人聯想起19世紀的smoking shirts，有趣的是當復古的縮褶和蕾絲刺繡設計，遇上幾夢幻又富街頭氣息的扎染，效果出奇地合拍，為人留下鮮明的印象。</p>
+<p> </p>
+<p>插肩泡泡袖設計令寬鬆的設計不會太過顯壯，單穿有慵懶隨意感，配上腰帶則有宮廷華麗感。所有縮褶均需由工藝師以手工完成，而布料的隨意的粉色系扎染效果則要由染布師傅逐點上色，手工需時。</p>
+<p> </p>
+<p>裙子的兩側有側縫口袋。</p>
+<p>布料是環保的仿絲物料，<span data-mce-fragment="1">創新且可持續的材料之一，以100%有機橙纖絲製成。<meta charset="utf-8">Orange Fiber是近年的<meta charset="utf-8">創新物料，<meta charset="utf-8">由柑橘汁副產品製成。單在意大利，每年有超過700,000噸的柑橘汁副產品被棄置，將這些<meta charset="utf-8">副產品包括橙皮重新使用，便可製成</span>這種奢華的、<meta charset="utf-8"><span data-mce-fragment="1">絲綢般的纖維素織物</span>。<br></p>
+<p> </p>
+<table height="91" style="width: 265px;" data-mce-style="width: 265px;" data-mce-fragment="1">
+<tbody data-mce-fragment="1">
+<tr data-mce-fragment="1">
+<td style="width: 72px;" data-mce-style="width: 72px;" data-mce-fragment="1">
+<h6 data-mce-fragment="1"><span data-mce-fragment="1"><br></span></h6>
+</td>
+<td style="width: 101px;" data-mce-style="width: 101px;" data-mce-fragment="1">
+<h6 data-mce-fragment="1"><span data-mce-fragment="1">S</span></h6>
+</td>
+<td style="width: 58px;" data-mce-style="width: 58px;" data-mce-fragment="1">
+<h6 data-mce-fragment="1"><span data-mce-fragment="1">M</span></h6>
+</td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 72px;" data-mce-style="width: 72px;" data-mce-fragment="1">
+<h6 data-mce-fragment="1"><span data-mce-fragment="1">1/2 Chest (in)</span></h6>
+</td>
+<td style="width: 101px;" data-mce-style="width: 101px;" data-mce-fragment="1">
+<h6 data-mce-fragment="1"><span data-mce-fragment="1">34</span></h6>
+</td>
+<td style="width: 58px;" data-mce-style="width: 58px;" data-mce-fragment="1">
+<h6 data-mce-fragment="1"><span data-mce-fragment="1">36</span></h6>
+</td>
+<td style="width: 6px;" data-mce-style="width: 6px;" data-mce-fragment="1"></td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 72px;" data-mce-style="width: 72px;" data-mce-fragment="1">
+<h6 data-mce-fragment="1"><span data-mce-fragment="1">Length (in)</span></h6>
+</td>
+<td style="width: 101px;" data-mce-style="width: 101px;" data-mce-fragment="1">
+<h6 data-mce-fragment="1"><span data-mce-fragment="1">46</span></h6>
+</td>
+<td style="width: 58px;" data-mce-style="width: 58px;" data-mce-fragment="1">
+<h6 data-mce-fragment="1"><span data-mce-fragment="1">46.5</span></h6>
+</td>
+</tr>
+</tbody>
+</table>
+<p> <meta charset="utf-8"></p>
+<p><span>M</span><span>odel is 168cm and is wearing size M.</span></p>
+<p> </p>
+<p>Slow fashion handmade in India</p>
+<p>Dry clean only</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/6632987000987</id>
+      <title>S</title>
+      <s:price currency="HKD">3380.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/6632987000987</id>
+      <title>M</title>
+      <s:price currency="HKD">3380.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/6633807544475</id>
+    <published>2021-04-05T16:51:11+08:00</published>
+    <updated>2021-04-05T16:51:11+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/000wavy-silver-ring"/>
+    <title>Wavy 925 Silver Ring</title>
+    <s:type></s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/19.1.jpg?v=1617609923"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            408.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8">拉絲表面配有立體波浪邊，三個幼環是獨立可移動的。</p>
+<p>weight of silver: 10gram</p>
+<p>size: US 6.5</p>
+<p> </p>
+<p>ONLY ONE</p>
+<p>made in India</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/6633807544475</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">408.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
