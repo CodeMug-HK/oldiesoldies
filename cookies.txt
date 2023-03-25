@@ -1,0 +1,11 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+oldiesoldies.com	TRUE	/	FALSE	1999999999	_landing_page	%2F
+oldiesoldies.com	TRUE	/	FALSE	1999999999	localization	HK
+oldiesoldies.com	TRUE	/	FALSE	1999999999	_cmp_a	%7B%22purposes%22%3A%7B%22a%22%3Atrue%2C%22p%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22merchant_geo%22%3A%22HK%22%2C%22sale_of_data_region%22%3Afalse%7D
+oldiesoldies.com	TRUE	/	FALSE	1999999999	_y	103b2d99-7700-422d-9b97-920896f70d78
+oldiesoldies.com	TRUE	/	FALSE	1999999999	_s	e8038185-c8bb-48af-95a4-eec4d1c62a51
+oldiesoldies.com	TRUE	/	FALSE	1999999999	_shopify_y	103b2d99-7700-422d-9b97-920896f70d78
+oldiesoldies.com	TRUE	/	FALSE	1999999999	_shopify_s	e8038185-c8bb-48af-95a4-eec4d1c62a51
+oldiesoldies.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+

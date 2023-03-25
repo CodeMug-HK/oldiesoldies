@@ -1,0 +1,1152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://oldiesoldies.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://oldiesoldies.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://oldiesoldies.com/collections/all.atom"/>
+  <title>oldiesoldies</title>
+  <updated>2022-11-11T20:55:04+08:00</updated>
+  <author>
+    <name>oldiesoldies</name>
+  </author>
+  <entry>
+    <id>https://oldiesoldies.com/products/7541057749147</id>
+    <published>2022-11-11T20:55:04+08:00</published>
+    <updated>2022-11-11T20:55:04+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/vintage"/>
+    <title>1980&apos;s Vintage Necklace</title>
+    <s:type>accessories</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/6copy_ff4380ec-64e7-4822-b495-473fd62c7d16.jpg?v=1668171439"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>accessories<br>
+        <strong>Price: </strong>
+            580.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">1980's<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1">長度：55cm</p>
+<p data-mce-fragment="1">材質：黃銅&amp;玻璃</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1">狀態完好，但畢竟項鍊已四十歲，因此黃銅不可能是簇新的，會有一定程度氧化及變色，但氧化也是復古黃銅的樂趣之一。</p>
+<p data-mce-fragment="1">*注意：實物較圖片黑。</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">注意水、汗水、雨水都會令黃銅氧化。</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">如不喜歡黃銅的黑斑或銅銹，可自行清除。</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>vintage</s:tag>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/7541057749147</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">580.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/5248419397787</id>
+    <published>2022-10-01T14:44:27+08:00</published>
+    <updated>2022-10-01T14:44:27+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/puffy-top-linen"/>
+    <title>Puffy Top (Linen)</title>
+    <s:type>top</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/odod0520-27.jpg?v=1590660045"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>top<br>
+        <strong>Price: </strong>
+            540.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Details &amp; Features:</p>
+<p>微透高質量麻布</p>
+<p>布料已先洗水預縮</p>
+<meta charset="utf-8">
+<p>肩上縮皺</p>
+<p>特大泡泡袖</p>
+<p> </p>
+<p>100% Linen fabric from Italy</p>
+<p>Homemade in Hong Kong (home based Sweatshop)</p>
+<p>made to order</p>
+<p> </p>
+<meta charset="utf-8">
+<p>Payment:</p>
+<p>香港本地可銀行入數/轉數快/Payme</p>
+<p>如要以以上方法付款請DM</p>
+<p>謝謝</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5248419397787</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">540.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/5248688947355</id>
+    <published>2022-08-12T22:17:50+08:00</published>
+    <updated>2022-08-12T22:17:50+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/inky-lace-dress"/>
+    <title>Inky Lace Dress</title>
+    <s:type>bottom</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/o-6_68bcb1a2-b1b0-4519-90aa-1874dd35dbe2.jpg?v=1664606737"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>bottom<br>
+        <strong>Price: </strong>
+            480.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Details &amp; Features:</p>
+<p>黑色微透布料</p>
+<p>肩帶可調節長度</p>
+<p>後大蝴蝶結裝飾</p>
+<p> </p>
+<p>Embroidery Fabric from Italy</p>
+<p>Handmade in Hong Kong (home based Sweatshop)</p>
+<p> </p>
+<meta charset="utf-8">
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/5248688947355</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">480.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/7368390770843</id>
+    <published>2022-05-25T00:17:51+08:00</published>
+    <updated>2022-05-25T00:17:51+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/1980s-vintage-necklace-1"/>
+    <title>1980&apos;s Vintage Necklace (SOLD)</title>
+    <s:type>accessories</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/1copy_2f463686-171c-44ca-aab1-c758c62bef9b.jpg?v=1653408418"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>accessories<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1980's<br></p>
+<p> </p>
+<p>長度：40cm</p>
+<p><meta charset="utf-8">材質：黃銅&amp;玻璃</p>
+<p> </p>
+<p>狀態完好，但畢竟項鍊已四十歲，因此黃銅不可能是簇新的，會有一定程度氧化及變色，但氧化也是復古黃銅的樂趣之一。</p>
+<p> </p>
+<p><meta charset="utf-8"><span data-mce-fragment="1">注意水、汗水、雨水都會令黃銅氧化。</span></p>
+<p><span data-mce-fragment="1">如不喜歡<meta charset="utf-8">黃銅<meta charset="utf-8">的黑斑或銅銹，可自行清除。</span></p>
+<p> </p>
+<p><meta charset="utf-8"><span>ONLY ONE</span><br><br><span>made in USA</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>vintage</s:tag>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/7368390770843</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/7367631667355</id>
+    <published>2022-05-23T23:49:18+08:00</published>
+    <updated>2022-05-23T23:49:18+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/1980s-vintage-necklace"/>
+    <title>1980&apos;s Vintage Necklace (SOLD)</title>
+    <s:type>accessories</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/4_c3244d84-cf9b-4b29-93d6-3faaecf1d7d5.jpg?v=1653320959"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>accessories<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1980's<br></p>
+<p> </p>
+<p>長度：80cm</p>
+<p><meta charset="utf-8">材質：黃銅&amp;玻璃</p>
+<p> </p>
+<p>狀態完好，但黃銅有一定程度氧化，但氧化也是復古黃銅的樂趣之一，<meta charset="utf-8">不影響配戴效果。</p>
+<p> </p>
+<p><meta charset="utf-8"><span data-mce-fragment="1">注意水、汗水、雨水都會令黃銅氧化。</span></p>
+<p><span data-mce-fragment="1">如不喜歡<meta charset="utf-8">黃銅<meta charset="utf-8">的黑斑或銅銹，可自行清除。</span></p>
+<p><br></p>
+<p>可當長頸鍊配戴或繞一圈戴。</p>
+<p> </p>
+<p><meta charset="utf-8"><span>ONLY ONE</span><br><br><span>made in USA</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>vintage</s:tag>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/7367631667355</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/7264284278939</id>
+    <published>2022-01-21T19:20:01+08:00</published>
+    <updated>2022-01-21T19:20:01+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/vintage-belt-38"/>
+    <title>Vintage Belt</title>
+    <s:type>accessories</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/7_9fb427ab-e358-4c16-8ae2-942b8de5c413.jpg?v=1642764002"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>accessories<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">有壓花的皮帶，立體愛心的花紋也很精緻。</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1">Condition：<span data-mce-fragment="1">皮帶是真皮，皮質軟身，整體狀態良好，</span>有明顯使用痕跡，皮帶孔兩側邊有磨擦痕<meta charset="utf-8"><span data-mce-fragment="1">跡</span>，<span data-mce-fragment="1">金屬有刮痕及變色（見圖片）。</span></p>
+<p data-mce-fragment="1">Size: 28.5<span data-mce-fragment="1">" to 31.5" </span> </p>
+<p data-mce-fragment="1"><meta charset="utf-8"><span>（常穿牛仔褲頭的朋友建議較大的尺碼，喜歡搭配單薄的襯衫或裙子的朋友建議按自己腰圍購買。）</span></p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">ONLY ONE</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">made in USA</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>vintage</s:tag>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/7264284278939</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/7221233352859</id>
+    <published>2021-11-30T21:35:40+08:00</published>
+    <updated>2021-11-30T21:35:40+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/vintage-vivienne-westwood-backpack"/>
+    <title>Vintage Vivienne Westwood Backpack (SOLD)</title>
+    <s:type>bag</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/bag.1_fb39ecbd-6c99-45f1-b255-247f6b3ee456.jpg?v=1638279339"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>bag<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>未使用品，容量大，肩帶可調節，內有兩個小暗間及一個拉鏈暗格，外有兩個側格，十分實用。</p>
+<p>有存放痕跡，紫色皮有變色成紫紅的情況，請見圖片。</p>
+<p> </p>
+<p>Size: L30 x W12.5 x H28 </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bag</s:tag>
+    <s:tag>christmas</s:tag>
+    <s:tag>vintage</s:tag>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/7221233352859</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/7221192851611</id>
+    <published>2021-11-30T20:21:34+08:00</published>
+    <updated>2021-11-30T20:21:34+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/vintage-belt-37"/>
+    <title>Vintage belt (SOLD)</title>
+    <s:type>accessories</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/4_7645615c-56d5-4ef3-b9d0-033903250e04.jpg?v=1638274925"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>accessories<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"><meta charset="utf-8"><span data-mce-fragment="1">腰帶上每一個金屬配件都十分<meta charset="utf-8">精緻，十分有重量又有質感的款式，連調節鏈的尾巴都帶裝飾物呢，特別又搶眼的設計只要搭配簡單的衣服已經很好看！</span></p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1">Condition：<span data-mce-fragment="1">皮帶是真皮，皮帶的狀態良好，只</span>有輕微使用痕跡，尤其以1993年出產來說，這條的<span data-mce-fragment="1">金屬扣保存完好，只有輕微刮痕，十分難得</span>。</p>
+<p data-mce-fragment="1">Size : 28.5<span data-mce-fragment="1">" to 34"</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">（常穿牛仔褲頭的朋友建議較大的尺碼，喜歡搭配單薄的襯衫或裙子的朋友建議按自己腰圍購買。）</span></p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">made in USA in 1993.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><br></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>vintage</s:tag>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/7221192851611</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/7220773421211</id>
+    <published>2021-11-30T01:42:59+08:00</published>
+    <updated>2021-11-30T01:42:59+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/vintage-belt-36"/>
+    <title>Vintage Belt (SOLD)</title>
+    <s:type>accessories</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/2_43e5721b-aec4-4825-9332-0e1c49c201b5.jpg?v=1638207812"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>accessories<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">黑色<meta charset="utf-8"><span data-mce-fragment="1">鱷魚皮紋<meta charset="utf-8">很復古，</span><span data-mce-fragment="1">金屬扣的雕花精緻，以金色點綴，配以麻花紋，交叉扣可隨意移動，十分特別。</span><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1">Condition：<span data-mce-fragment="1">皮帶是真皮，皮質不會太硬。整體狀態良好，皮帶表面無明顯<meta charset="utf-8">使用痕跡，背面</span>有使用痕跡，<meta charset="utf-8"><span data-mce-fragment="1">金屬扣</span>有輕微刮<span data-mce-fragment="1">痕（見圖片）</span>。</p>
+<p data-mce-fragment="1">Size: 27<span data-mce-fragment="1">" to 31" （可自行打孔）</span></p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">ONLY ONE</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">made in USA</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>vintage</s:tag>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/7220773421211</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/7202279751835</id>
+    <published>2021-11-09T00:26:10+08:00</published>
+    <updated>2021-11-09T00:26:10+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/vintage-belt-35"/>
+    <title>Vintage Belt (SOLD)</title>
+    <s:type>accessories</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/5_a39ab73e-6be6-456d-b6a0-5181cb38ef7e.jpg?v=1636386865"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>accessories<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"><meta charset="utf-8">萬中無一的三段皮帶，金屬配件上有綠松石點綴，皮帶上還有。</p>
+<p data-mce-fragment="1">Condition：<meta charset="utf-8"><span data-mce-fragment="1">皮帶是</span><span data-mce-fragment="1">真皮，皮質<meta charset="utf-8">厚實。整體狀態良好</span>，皮面有輕微刮痕，背面的<span data-mce-fragment="1">使用</span>痕跡較明顯（見圖片）。</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1">Size: 25<span data-mce-fragment="1">" to 28" <meta charset="utf-8">（可自行打孔）</span></p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">ONLY ONE</span></p>
+<p data-mce-fragment="1"><meta charset="utf-8"><span>Metals- made in Taiwan</span><br><span>Leather- made in China</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>vintage</s:tag>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/7202279751835</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/7201530806427</id>
+    <published>2021-11-08T00:48:34+08:00</published>
+    <updated>2021-11-08T00:48:34+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/vintage-belt-34"/>
+    <title>Vintage Belt (SOLD)</title>
+    <s:type>accessories</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/10_bfe716a5-2198-4847-97f9-8ef6c4f34983.jpg?v=1636303717"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>accessories<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"><meta charset="utf-8"><span data-mce-fragment="1">復古的</span>西部牛仔風格皮帶，金屬配件的花紋十分精緻。這條是難得的未使用品，只有存放痕跡。它的牛皮十分有質感，皮帶背部印有Top Grain Leather的sign。</p>
+<p data-mce-fragment="1">Condition：<meta charset="utf-8"><span data-mce-fragment="1">頭層牛皮</span><span data-mce-fragment="1">真皮，<meta charset="utf-8">厚實但一點都不硬。整體狀態十分良好，全新連牌，但有存放</span>痕跡（見圖片）。</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1">Size: 28.5<span data-mce-fragment="1">" to 31.5" <meta charset="utf-8">（可自行打孔）</span></p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">ONLY ONE</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">made in USA in 1996.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>christmas</s:tag>
+    <s:tag>vintage</s:tag>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/7201530806427</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/7167291326619</id>
+    <published>2021-10-18T23:27:21+08:00</published>
+    <updated>2021-10-18T23:27:21+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/vintage-belt-33"/>
+    <title>Vintage Belt (SOLD)</title>
+    <s:type>accessories</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/9_14e699f0-1777-4c44-aead-cb53661c514c.jpg?v=1634571037"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>accessories<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"><meta charset="utf-8">簡單易襯的黑色皮帶，復古的鱷魚皮壓紋和金屬扭紋設計，百搭之餘，再沉悶的衣服配上這條便可以令打扮有重點。</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1">Condition：<span data-mce-fragment="1">皮帶是真皮，狀態良好，有使用痕跡，</span>金屬有變色（見圖片）。</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1">Size: 25" - 29"<span data-mce-fragment="1"> </span></p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">ONLY ONE</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">made in USA</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>christmas</s:tag>
+    <s:tag>vintage</s:tag>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/7167291326619</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/7112373797019</id>
+    <published>2021-09-29T22:21:37+08:00</published>
+    <updated>2021-09-29T22:21:37+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/vintage-belt-32"/>
+    <title>Vintage Belt (SOLD)</title>
+    <s:type>accessories</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/1copy.jpg?v=1632926346"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>accessories<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">同樣是有點西部風格的vintage belt，整條皮帶都是金屬配件，十分搶眼。有時皮帶孔的位置很尷尬，不是太緊就是太鬆，但這條是沒有皮帶孔的！交織皮帶之間任何一個位置都是皮帶孔～</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1">Condition：<span data-mce-fragment="1">皮帶是真皮，狀態良好，有輕微使用痕跡，</span>金屬有變色（見圖片）。</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1">Size: 25.5" - 全長32"<span data-mce-fragment="1"> </span></p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">ONLY ONE</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Metals- made in Taiwan</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Leather</span><span data-mce-fragment="1">- made in China</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>christmas</s:tag>
+    <s:tag>vintage</s:tag>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/7112373797019</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/7050412818587</id>
+    <published>2021-09-08T00:24:58+08:00</published>
+    <updated>2021-09-08T00:24:58+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/vintage-belt-31"/>
+    <title>Vintage Belt (SOLD)</title>
+    <s:type>accessories</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/16.jpg?v=1631031403"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>accessories<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">同樣是<meta charset="utf-8">最近正流行的西部牛仔風格，仔細看每一信金屬配件的花紋都略有不同呢，十分精緻。比起人造皮皮帶，真皮顯得有質感許多。我也很喜歡稍黑的金屬，感覺更復古，太光亮的金屬令人感覺不太自然。</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1">Condition：<span data-mce-fragment="1">皮帶是真皮，皮質不會太厚。<meta charset="utf-8">以將近30歲以言，她的整體狀態良好，但</span>有使用痕跡，金屬有刮痕及變色（見圖片）。</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1">Size: 27<span data-mce-fragment="1">" to 30" </span></p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">ONLY ONE</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">made in USA in 1992.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>christmas</s:tag>
+    <s:tag>vintage</s:tag>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/7050412818587</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/7048258093211</id>
+    <published>2021-09-06T22:33:06+08:00</published>
+    <updated>2021-09-06T22:33:06+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/vintage-belt-30"/>
+    <title>Vintage Belt (SOLD)</title>
+    <s:type>accessories</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/15.jpg?v=1630939062"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>accessories<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">有歷史的一款幼皮帶，<meta charset="utf-8">西部牛仔風格最近正流行！皮帶較一般長，如太鬆建議可繞到腰間調節。</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1">Condition：<span data-mce-fragment="1">皮帶是真皮，皮質不會太厚。整體狀態一般，</span>有明顯使用痕跡，皮帶打孔位兩旁有刮<span data-mce-fragment="1">痕較明顯，</span>金屬有變色（見圖片）。</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1">Size: 31<span data-mce-fragment="1">" to 37" （最小處孔由原擁用釘上）太鬆者建議可棄用皮帶孔，將皮帶穿過buckle，再繞到腰圍處。</span></p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">ONLY ONE</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">made in USA IN 1994</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>christmas</s:tag>
+    <s:tag>vintage</s:tag>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/7048258093211</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/7033612370075</id>
+    <published>2021-08-31T21:40:03+08:00</published>
+    <updated>2021-08-31T21:40:03+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/vintage-belt-29"/>
+    <title>Vintage Belt (SOLD)</title>
+    <s:type>accessories</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/7_ebc5878d-7e6e-4ec1-b2c5-d85696de5ee7.jpg?v=1630417206"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>accessories<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div id="shopify-section-product-template" class="shopify-section" data-mce-fragment="1">
+<div class="product-template__container page-width" id="ProductSection-product-template" data-section-id="product-template" data-section-type="product" data-enable-history-state="true" data-ajax-enabled="true" data-mce-fragment="1">
+<div class="grid product-single product-single--large-media" data-mce-fragment="1">
+<div class="grid__item medium-up--one-third" data-mce-fragment="1">
+<div class="product-single__description rte" data-mce-fragment="1">
+<p data-mce-fragment="1">黑色及啡色皮相間設計十分獨特，拼皮之間還有金屬方扣，鱷魚皮紋及<span data-mce-fragment="1">金屬扣</span><span data-mce-fragment="1">的雕花很復古！</span><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1">Condition：<span data-mce-fragment="1">皮帶是真皮，皮質較厚實。整體狀態良好，</span>有使用痕跡，方扣上皮料及皮帶打孔位兩旁有輕微刮<span data-mce-fragment="1">痕（見圖片），</span>金屬稍有變色。</p>
+<p data-mce-fragment="1">Size: 29<span data-mce-fragment="1">" to 32" （可自行打孔）</span></p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">ONLY ONE</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">made in USA</span></p>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>christmas</s:tag>
+    <s:tag>vintage</s:tag>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/7033612370075</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku>0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/7002331185307</id>
+    <published>2021-08-19T23:31:30+08:00</published>
+    <updated>2021-08-19T23:31:30+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/vintage-belt-28"/>
+    <title>Vintage Belt (SOLD)</title>
+    <s:type>accessories</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/14.jpg?v=1629387083"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>accessories<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>初上架Vintage皮帶的同款！</p>
+<p><meta charset="utf-8">當時很多客人沒買到很失望，這次上架的是同款的啡色版，狀態良好！</p>
+<p> </p>
+<p data-mce-fragment="1">Condition：<span data-mce-fragment="1">十分良好，皮帶如新的一樣，只有存放痕跡，buckle有花痕。皮帶仿鱷魚紋設計，皮質厚實。</span></p>
+<p data-mce-fragment="1">Size:<span> </span>25"-29"（可自行打孔）</p>
+<p data-mce-fragment="1">（常穿牛仔褲頭的朋友建議較大的尺碼，喜歡搭配單薄的襯衫或裙子的朋友建議按自己腰圍購買。）<br></p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">made in USA.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">ONLY ONE.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>vintage</s:tag>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/7002331185307</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/6993254908059</id>
+    <published>2021-08-16T22:35:23+08:00</published>
+    <updated>2021-08-16T22:35:23+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/vintage-belt-27"/>
+    <title>Vintage Belt (SOLD)</title>
+    <s:type>accessories</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/13copy.jpg?v=1629124525"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>accessories<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>重點不在正中！</p>
+<p><meta charset="utf-8">皮帶兩旁愛心不規則裁切設計，還壓上了編織紋路，金屬部件也很精緻！</p>
+<p> </p>
+<p data-mce-fragment="1">Condition：<span data-mce-fragment="1">皮帶是真皮且狀態良好，</span>有使用痕跡，金屬<span data-mce-fragment="1">狀態一般，</span><span data-mce-fragment="1">有刮痕及變色</span>（詳見圖片），圖8三顆圓釘正面有掉漆，拍照時有遺漏，配戴時不會外露，可<meta charset="utf-8">私信查詢。</p>
+<p data-mce-fragment="1">Size:<span> </span>24"-27"</p>
+<p data-mce-fragment="1">（常穿牛仔褲頭的朋友建議較大的尺碼，喜歡搭配單薄的襯衫或裙子的朋友建議按自己腰圍購買。）<br></p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">made in USA.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">ONLY ONE.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>vintage</s:tag>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/6993254908059</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/6976103415963</id>
+    <published>2021-08-11T21:19:29+08:00</published>
+    <updated>2021-08-11T21:19:29+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/vintage-belt-26"/>
+    <title>Vintage Belt (SOLD)</title>
+    <s:type>accessories</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/3.1_d2329853-7bc9-4622-a8e8-6ef5f5da5882.jpg?v=1628686580"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>accessories<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">精緻的愛心皮帶，每一個愛心的花紋都不一樣！雖然愛心予人可愛印象，但西部牛仔風格的皮帶其實能讓造型更帥氣呢。</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1">Condition：<span data-mce-fragment="1">皮帶是真皮，皮帶的狀態良好，</span>有使用痕跡，金屬<meta charset="utf-8"><span data-mce-fragment="1">狀態一般，</span><meta charset="utf-8"><span data-mce-fragment="1">有刮痕及明顯變色</span>（詳見圖片）。</p>
+<p data-mce-fragment="1">Size: <span data-mce-fragment="1">28.5" to 32.5"</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">（常穿牛仔褲頭的朋友建議較大的尺碼，喜歡搭配單薄的襯衫或裙子的朋友建議按自己腰圍購買。）</span></p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">made in USA.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>vintage</s:tag>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/6976103415963</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/6971896266907</id>
+    <published>2021-08-09T22:22:05+08:00</published>
+    <updated>2021-08-09T22:22:05+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/vintage-belt-25"/>
+    <title>Vintage Belt (SOLD)</title>
+    <s:type>accessories</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/12_9896bc4c-425d-4f15-a858-57bb44be82d0.jpg?v=1628518928"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>accessories<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"><span data-mce-fragment="1">紅色的牛仔風皮帶，始末雙層設計，金色貝殼紋皮帶扣很復古，日常<meta charset="utf-8">搭配可以令<meta charset="utf-8">打扮增添色彩～</span></p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1">Condition：<span data-mce-fragment="1">皮帶是真皮，皮帶的狀態良好，</span>有使用痕跡，尤其在皮帶孔兩側的磨擦痕跡（詳見圖片）。</p>
+<p data-mce-fragment="1">Size: 28<span data-mce-fragment="1">" to 31"</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">（常穿牛仔褲頭的朋友建議較大的尺碼，喜歡搭配單薄的襯衫或裙子的朋友建議按自己腰圍購買。）</span></p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">made in USA.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>vintage</s:tag>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/6971896266907</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/6958650491035</id>
+    <published>2021-08-03T23:05:08+08:00</published>
+    <updated>2021-08-03T23:05:08+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/vintage-belt-24"/>
+    <title>Vintage Belt (SOLD)</title>
+    <s:type>accessories</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/8_caa0edb9-843a-4ee9-b1f3-d70d1d7d3c53.jpg?v=1628003109"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>accessories<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"><span data-mce-fragment="1">腰帶上每一個金屬配件都十分精緻，十分有重量又有質感的款式，連調節鏈的尾巴都帶裝飾物呢，特別又搶眼的設計只要搭配簡單的衣服已經很好看！</span></p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1">Condition：<span data-mce-fragment="1">皮帶是真皮，皮帶的狀態良好，</span>有明顯存放痕跡，但以1993年出產來說，這條的<span data-mce-fragment="1">金屬扣狀態算理想，沒有毁損，但有變黑及刮痕（見圖片）</span>。</p>
+<p data-mce-fragment="1">Size: 28.5<span data-mce-fragment="1">" to 33.5"</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">（常穿牛仔褲頭的朋友建議較大的尺碼，喜歡搭配單薄的襯衫或裙子的朋友建議按自己腰圍購買。）</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>vintage</s:tag>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/6958650491035</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/6939339391131</id>
+    <published>2021-07-26T22:24:28+08:00</published>
+    <updated>2021-07-26T22:24:28+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/vintage-mini-clasp-bag"/>
+    <title>Vintage Mini Clasp Bag (SOLD)</title>
+    <s:type>bag</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/8_a3355648-7224-4f05-83b3-7f18d8a988de.jpg?v=1627309469"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>bag<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>超可愛的迷你小袋子，連內裡都很少女！</p>
+<p> </p>
+<p>Condition: 如全新一樣！只有輕微存放痕跡，真皮。</p>
+<p>Size: 5.5" x 4.5"</p>
+<p>Length of Strap: 54"</p>
+<p> </p>
+<p> </p>
+<p>ONLY ONE</p>
+<p>made in China</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>vintage</s:tag>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/6939339391131</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/6939316027547</id>
+    <published>2021-07-26T22:18:24+08:00</published>
+    <updated>2021-07-26T22:18:24+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/vintage-belt-23"/>
+    <title>Vintage Belt (SOLD)</title>
+    <s:type>accessories</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/10.jpg?v=1627309107"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>accessories<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">Condition：銀<span data-mce-fragment="1">色合金腰鍊，狀態良好，整體</span>有使用痕跡，金屬塊<meta charset="utf-8">正面及側有均花痕，詳見圖片。長度較長，因此用途較多樣，如可用作斜孭袋鏈帶。</p>
+<p data-mce-fragment="1">Length: 全長44" （不連尾鏈36" ）</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1">made in Taiwan</p>
+<p data-mce-fragment="1">ONLY ONE</p>
+<p data-mce-fragment="1"><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>christmas</s:tag>
+    <s:tag>vintage</s:tag>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/6939316027547</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/6937426231451</id>
+    <published>2021-07-25T20:59:34+08:00</published>
+    <updated>2021-07-25T20:59:34+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/vintage-belt-22"/>
+    <title>Vintage Belt (SOLD)</title>
+    <s:type>accessories</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/9_02b6b2e6-8537-4366-bcc1-1977a702a74e.jpg?v=1627217978"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>accessories<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">半鏈條配皮帶設計，在過去曾經流行，現在已經很難找到類似的設計了。啡色仿鱷魚紋皮配上復古銀色金屬配件十分復古，<meta charset="utf-8">很適合喜歡復古或衣櫃都是大地色系的朋友喔。</span><br data-mce-fragment="1"></p>
+<p><br></p>
+<p> </p>
+<p>Condition：皮帶是真皮，皮質厚實。正面狀態良好，皮背有存放痕跡，<span data-mce-fragment="1">因</span><span data-mce-fragment="1">二十多年來長期存放，</span>金屬扣亦有<meta charset="utf-8"><span data-mce-fragment="1">有存放痕跡，但無嚴重瑕疵</span><span data-mce-fragment="1">（請見試戴圖片）</span>。</p>
+<p data-mce-fragment="1">Size: <meta charset="utf-8">扣鏈條free size，皮帶孔31.5 to 35.5" （有少量空間可自行打孔，見圖片）</p>
+<p><br data-mce-fragment="1"><span data-mce-fragment="1">made in USA in 1996.</span></p>
+<p><br data-mce-fragment="1"><span data-mce-fragment="1">ONLY ONE.</span><br data-mce-fragment="1"><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>vintage</s:tag>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/6937426231451</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oldiesoldies.com/products/6932413153435</id>
+    <published>2021-07-22T23:56:15+08:00</published>
+    <updated>2021-07-22T23:56:15+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://oldiesoldies.com/products/vintage-belt-21"/>
+    <title>Vintage Belt (SOLD)</title>
+    <s:type>accessories</s:type>
+    <s:vendor>oldiesoldies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0398/9127/1835/products/6..jpg?v=1626969376"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>oldiesoldies<br>
+        <strong>Type: </strong>accessories<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">又一條想自留的款式！很美又百搭，任何配搭用這條畫龍點睛，馬上變得型格！</span></p>
+<p> </p>
+<p><meta charset="utf-8">Condition：皮帶是真皮，皮質較薄。<meta charset="utf-8">狀態較平日挑選的Vintage舊一點，正面狀態良好，皮背有較明顯使用痕跡，<meta charset="utf-8"><span data-mce-fragment="1">因</span><span data-mce-fragment="1">二十多年來長期存放，</span>金屬扣亦有刮痕及變色<meta charset="utf-8"><span data-mce-fragment="1">（請見試戴圖片）</span>。</p>
+<p data-mce-fragment="1">Size: 27 to 30" （可自行打孔，見圖片）</p>
+<p><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">ONLY ONE</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">made in USA in 1996.</span><br data-mce-fragment="1"><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>vintage</s:tag>
+    <s:variant>
+      <id>https://oldiesoldies.com/products/6932413153435</id>
+      <title>Default Title</title>
+      <s:price currency="HKD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

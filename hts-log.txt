@@ -1,0 +1,31 @@
+HTTrack3.49-2 launched on Fri, 24 Mar 2023 22:01:02 at https://oldiesoldies.com/
+(winhttrack https://oldiesoldies.com/ -W -O "/Users/kenhung/tt/tttt" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:01:22	Error: 	"Not Found" (404) at link https://oldiesoldies.com/GET (from https://oldiesoldies.com/)
+22:01:22	Error: 	"Not Found" (404) at link https://oldiesoldies.com/POST (from https://oldiesoldies.com/)
+22:03:24	Error: 	"Not Found" (404) at link https://oldiesoldies.com/collections/GET (from https://oldiesoldies.com/collections/new-arrival)
+22:03:24	Error: 	"Not Found" (404) at link https://oldiesoldies.com/collections/POST (from https://oldiesoldies.com/collections/new-arrival)
+22:05:57	Error: 	"Not Found" (404) at link https://oldiesoldies.com/collections/frontpage/products/GET (from https://oldiesoldies.com/collections/frontpage/products/antique-skirt)
+22:05:57	Error: 	"Not Found" (404) at link https://oldiesoldies.com/collections/frontpage/products/POST (from https://oldiesoldies.com/collections/frontpage/products/antique-skirt)
+22:05:57	Error: 	"Not Found" (404) at link https://oldiesoldies.com/pages/GET (from https://oldiesoldies.com/pages/退款及退換貨守則)
+22:05:57	Error: 	"Not Found" (404) at link https://oldiesoldies.com/pages/POST (from https://oldiesoldies.com/pages/退款及退換貨守則)
+22:06:21	Error: 	"Not Found" (404) at link https://oldiesoldies.com/policies/GET (from https://oldiesoldies.com/policies/shipping-policy)
+22:06:21	Error: 	"Not Found" (404) at link https://oldiesoldies.com/policies/POST (from https://oldiesoldies.com/policies/shipping-policy)
+22:06:25	Error: 	"Not Found" (404) at link https://oldiesoldies.com/collections/new-arrival/products/GET (from https://oldiesoldies.com/collections/new-arrival/products/vintage)
+22:06:25	Error: 	"Not Found" (404) at link https://oldiesoldies.com/collections/new-arrival/products/POST (from https://oldiesoldies.com/collections/new-arrival/products/vintage)
+22:07:00	Error: 	"Not Found" (404) at link https://oldiesoldies.com/collections/jute-bags/products/GET (from https://oldiesoldies.com/collections/jute-bags/products/super-chic-jute-bag)
+22:07:00	Error: 	"Not Found" (404) at link https://oldiesoldies.com/collections/jute-bags/products/POST (from https://oldiesoldies.com/collections/jute-bags/products/super-chic-jute-bag)
+22:07:39	Error: 	"Not Found" (404) at link https://oldiesoldies.com/collections/select/products/GET (from https://oldiesoldies.com/collections/select/products/amethyst-square-stone-925-silver-ring)
+22:07:39	Error: 	"Not Found" (404) at link https://oldiesoldies.com/collections/select/products/POST (from https://oldiesoldies.com/collections/select/products/amethyst-square-stone-925-silver-ring)
+22:08:17	Error: 	"Not Found" (404) at link https://oldiesoldies.com/collections/vintage/products/GET (from https://oldiesoldies.com/collections/vintage/products/vintage)
+22:08:17	Error: 	"Not Found" (404) at link https://oldiesoldies.com/collections/vintage/products/POST (from https://oldiesoldies.com/collections/vintage/products/vintage)
+22:08:17	Error: 	"Not Found" (404) at link https://oldiesoldies.com/products/GET (from https://oldiesoldies.com/products/antique-skirt)
+22:08:17	Error: 	"Not Found" (404) at link https://oldiesoldies.com/products/POST (from https://oldiesoldies.com/products/antique-skirt)
+
+HTTrack Website Copier/3.49-2 mirror complete in 11 minutes 11 seconds : 506 links scanned, 485 files written (35671026 bytes overall) [9115261 bytes received at 13584 bytes/sec], 36627561 bytes transferred using HTTP compression in 506 files, ratio 20%, 323.5 requests per connection
+(20 errors, 0 warnings, 0 messages)
